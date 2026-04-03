@@ -1,0 +1,2001 @@
+Python,SQL,Statistics,MachineLearning,HTML_CSS,JavaScript,Cloud,ProblemSolving,Communication,Creativity,CGPA,Interest,Role
+3,3,1,3,1,0,1,3,3,2,2.52,AI,AI Engineer
+3,3,1,3,3,2,0,2,1,2,3.5,AI,AI Engineer
+1,1,1,0,3,2,1,0,3,1,2.71,Development,Web Developer
+1,0,2,0,0,1,2,3,2,1,3.8,Cloud,DevOps Engineer
+2,2,1,1,2,1,2,3,2,2,3.58,Development,Software Engineer
+1,3,0,1,0,2,1,1,1,2,3.71,Database,Database Administrator
+2,0,1,0,2,2,0,2,2,2,3.56,Development,Web Developer
+2,2,0,1,1,0,3,3,1,3,3.37,Cloud,Cloud Engineer
+2,3,2,1,3,1,1,2,1,2,3.7,Database,Database Administrator
+2,2,2,3,1,1,1,2,3,3,3.44,Data,Data Scientist
+2,3,3,2,2,3,1,3,3,2,3.04,Security,Cyber Security Analyst
+2,0,3,3,1,2,3,3,2,1,2.55,AI,AI Engineer
+2,1,2,2,3,3,1,2,3,1,3.27,Data,Data Scientist
+3,3,0,1,1,1,1,2,2,1,3.14,Development,Software Engineer
+2,2,3,1,3,2,3,3,3,3,2.62,Cloud,Cloud Engineer
+1,1,2,1,2,2,0,0,1,3,2.58,Development,Web Developer
+2,3,2,2,2,3,3,3,2,2,3.86,AI,AI Engineer
+1,0,1,3,3,2,3,3,3,2,3.94,Development,Web Developer
+1,3,3,1,1,0,3,2,2,3,2.6,Cloud,DevOps Engineer
+1,1,1,0,3,1,1,3,1,3,2.82,Security,Cyber Security Analyst
+2,2,0,1,2,2,2,2,3,2,3.92,Development,Software Engineer
+2,1,1,3,1,2,2,3,3,1,2.6,AI,AI Engineer
+2,3,2,3,1,2,1,3,2,2,3.3,Security,Cyber Security Analyst
+2,0,0,1,0,3,3,2,3,3,2.77,Cloud,DevOps Engineer
+1,2,1,2,3,2,2,2,1,1,2.58,Cloud,DevOps Engineer
+2,0,0,2,1,1,2,3,3,2,3.03,Development,Software Engineer
+2,1,0,0,2,2,3,3,1,2,3.36,Development,Web Developer
+2,1,1,0,3,3,1,3,3,2,2.86,Security,Cyber Security Analyst
+3,1,1,3,2,0,1,3,1,1,3.27,AI,AI Engineer
+2,1,2,2,0,0,3,2,1,3,2.64,Data,Data Scientist
+3,2,2,3,1,0,2,2,2,1,3.28,Data,Data Scientist
+1,2,1,3,1,1,2,2,2,2,2.77,Cloud,Cloud Engineer
+2,1,2,3,0,3,2,2,3,1,3.72,Data,Data Scientist
+2,0,0,2,3,3,1,2,2,1,2.92,Security,Cyber Security Analyst
+3,0,0,1,1,2,0,3,1,3,2.72,Development,Software Engineer
+1,1,0,1,1,3,3,2,3,2,3.2,Cloud,Cloud Engineer
+2,3,3,0,3,2,0,1,3,1,3.53,Development,Web Developer
+3,2,2,2,0,3,2,2,2,3,2.5,AI,AI Engineer
+1,3,0,1,3,3,2,2,1,2,3.32,Security,Cyber Security Analyst
+1,0,0,2,0,1,1,2,3,1,2.88,Security,Cyber Security Analyst
+2,3,1,2,0,2,3,3,2,3,3.69,Cloud,DevOps Engineer
+2,1,0,0,3,2,2,2,2,1,3.15,Cloud,DevOps Engineer
+1,2,1,3,3,3,1,1,2,1,3.73,Development,Web Developer
+1,1,2,3,3,2,2,2,1,2,3.75,Cloud,Cloud Engineer
+1,3,3,1,3,1,2,3,2,3,3.93,Security,Cyber Security Analyst
+3,2,2,0,1,1,1,2,3,2,3.2,Development,Software Engineer
+2,1,1,2,1,1,3,3,2,3,3.06,Development,Software Engineer
+2,3,3,3,3,0,1,2,3,1,2.66,Data,Data Scientist
+2,3,3,1,3,3,2,1,3,3,3.02,Development,Web Developer
+1,0,0,0,3,1,3,3,3,2,3.04,Cloud,Cloud Engineer
+1,0,3,0,1,2,2,2,2,1,2.63,Cloud,Cloud Engineer
+2,2,3,2,3,3,0,2,1,1,3.31,Database,Database Administrator
+1,3,0,0,1,3,2,1,1,1,2.91,Database,Database Administrator
+2,1,2,3,3,2,3,2,3,3,3.71,Data,Data Scientist
+3,1,0,1,2,1,0,3,3,2,3.54,Development,Software Engineer
+1,1,2,1,3,3,3,3,2,3,2.68,Development,Web Developer
+2,3,3,2,1,1,2,2,2,2,3.68,Development,Software Engineer
+1,3,0,3,1,2,1,2,1,1,3.78,Security,Cyber Security Analyst
+2,2,2,1,2,1,1,2,2,1,3.88,Security,Cyber Security Analyst
+3,1,1,2,3,1,0,2,2,2,3.28,AI,AI Engineer
+3,0,2,3,2,2,0,3,3,3,3.26,Development,Software Engineer
+2,1,1,0,2,1,2,2,3,1,2.54,Development,Software Engineer
+2,2,0,3,3,1,1,2,1,1,2.96,Security,Cyber Security Analyst
+2,1,3,0,3,3,0,0,2,3,3.01,Development,Web Developer
+1,2,2,0,0,3,2,1,1,3,3.25,Database,Database Administrator
+2,3,2,2,2,3,0,3,3,3,2.89,Data,Data Scientist
+2,3,3,0,0,1,3,2,3,2,3.63,Cloud,Cloud Engineer
+1,2,1,3,2,2,2,3,2,1,2.72,Security,Cyber Security Analyst
+1,1,2,0,2,0,2,3,2,3,3.51,Security,Cyber Security Analyst
+3,2,0,3,1,1,2,3,3,3,3.04,Development,Software Engineer
+2,3,3,0,0,2,2,1,1,1,3.68,Database,Database Administrator
+3,3,3,2,2,2,2,3,3,3,3.69,Development,Software Engineer
+3,2,1,2,1,1,3,3,3,3,3.69,Development,Software Engineer
+3,2,2,3,1,2,3,3,1,1,3.72,AI,AI Engineer
+2,2,2,3,0,0,0,1,2,1,2.67,Database,Database Administrator
+2,3,3,0,2,2,2,3,3,3,3.73,Development,Software Engineer
+2,3,2,3,3,2,3,3,2,2,2.68,Development,Web Developer
+2,3,3,3,3,2,2,1,1,3,3.96,Database,Database Administrator
+1,2,1,3,1,1,2,2,3,1,2.67,Cloud,DevOps Engineer
+2,3,2,0,1,0,3,2,2,3,3.21,Cloud,DevOps Engineer
+1,2,1,0,0,0,1,3,1,2,2.71,Security,Cyber Security Analyst
+1,3,0,0,3,2,3,0,3,3,2.77,Development,Web Developer
+1,2,2,2,0,2,2,3,3,3,3.21,Cloud,Cloud Engineer
+2,3,1,2,2,0,2,2,1,1,2.95,Security,Cyber Security Analyst
+2,2,1,1,1,3,3,1,2,2,3.38,Database,Database Administrator
+1,1,1,2,2,0,2,2,1,2,3.92,Security,Cyber Security Analyst
+1,0,3,1,1,0,2,2,2,1,3.34,Cloud,Cloud Engineer
+2,3,2,3,0,1,2,3,2,3,3.32,Data,Data Scientist
+1,0,2,2,3,1,1,2,1,3,3.84,Security,Cyber Security Analyst
+2,1,1,3,2,3,2,3,2,1,2.53,Cloud,DevOps Engineer
+1,2,0,2,1,0,3,3,2,1,3.7,Cloud,Cloud Engineer
+2,2,3,2,1,3,2,3,3,2,3.97,AI,AI Engineer
+1,2,0,0,0,2,3,2,1,2,2.9,Database,Database Administrator
+2,3,1,3,3,3,1,1,2,2,3.95,Development,Web Developer
+2,2,2,2,0,3,2,3,1,3,3.56,Data,Data Scientist
+2,0,0,1,2,0,2,3,1,3,3.71,Cloud,Cloud Engineer
+3,2,3,3,1,1,0,2,1,3,2.63,Development,Software Engineer
+1,1,3,1,0,3,1,2,2,2,2.87,Security,Cyber Security Analyst
+3,3,3,3,0,0,0,2,3,3,3.81,Data,Data Scientist
+3,2,2,0,2,1,2,3,2,2,3.4,Development,Software Engineer
+2,3,1,0,3,2,0,1,3,1,3.65,Development,Web Developer
+3,0,2,3,0,0,1,2,1,2,3.49,AI,AI Engineer
+2,1,2,0,2,3,2,1,3,2,3.9,Development,Web Developer
+2,2,0,0,1,2,3,3,2,1,3.84,Development,Software Engineer
+2,3,2,1,3,3,2,3,3,1,3.15,Security,Cyber Security Analyst
+2,2,0,1,2,2,1,3,2,3,3.7,Security,Cyber Security Analyst
+2,1,3,2,1,2,0,3,3,3,3.41,Development,Software Engineer
+1,1,1,1,3,2,0,0,2,3,3.9,Development,Web Developer
+3,3,1,3,2,2,1,3,1,1,2.57,AI,AI Engineer
+1,1,0,2,3,3,3,3,2,1,2.59,Cloud,Cloud Engineer
+3,1,2,2,0,2,0,2,3,3,3.46,Data,Data Scientist
+2,2,0,3,3,2,1,0,1,2,2.64,Development,Web Developer
+2,2,3,3,3,3,2,2,2,2,3.84,Database,Database Administrator
+2,2,1,2,0,2,1,2,2,3,2.93,AI,AI Engineer
+1,3,0,2,2,3,3,2,1,2,2.92,Cloud,Cloud Engineer
+1,3,0,1,0,1,3,2,1,3,3.99,Cloud,Cloud Engineer
+3,3,3,3,2,3,3,3,1,1,2.53,AI,AI Engineer
+2,1,2,2,2,3,2,2,3,1,2.71,Security,Cyber Security Analyst
+1,2,3,1,2,2,0,2,2,1,3.76,Database,Database Administrator
+2,0,2,3,0,3,2,2,3,3,3.22,Cloud,Cloud Engineer
+2,1,1,2,3,0,0,3,3,3,3.24,AI,AI Engineer
+1,3,2,0,1,3,2,3,3,2,3.16,Cloud,Cloud Engineer
+1,2,2,2,3,3,3,3,2,3,3.55,Development,Web Developer
+2,0,2,1,3,2,2,2,2,1,3.8,Development,Web Developer
+2,2,3,3,2,2,2,3,2,2,2.51,Development,Software Engineer
+2,1,2,1,1,3,2,2,2,2,2.55,Cloud,Cloud Engineer
+1,3,0,3,1,1,1,2,2,2,3.62,Database,Database Administrator
+2,2,0,1,3,2,1,1,3,2,3.84,Database,Database Administrator
+1,3,3,2,0,1,2,1,3,1,3.6,Database,Database Administrator
+3,1,3,2,2,3,3,2,1,2,3.44,Data,Data Scientist
+3,1,2,2,1,0,2,2,1,1,3.53,Data,Data Scientist
+1,0,0,1,3,0,2,2,2,1,3.75,Security,Cyber Security Analyst
+1,1,3,0,0,0,2,2,1,2,3.84,Cloud,DevOps Engineer
+1,3,3,1,3,3,1,3,2,2,2.89,Security,Cyber Security Analyst
+1,0,2,2,0,3,3,2,1,1,2.84,Cloud,DevOps Engineer
+1,3,3,1,2,3,0,1,2,2,3.81,Database,Database Administrator
+2,1,0,1,2,2,3,3,2,3,3.15,Development,Software Engineer
+2,1,3,2,3,2,0,2,2,2,3.59,Development,Web Developer
+2,2,1,0,1,2,3,3,2,1,2.9,Development,Software Engineer
+2,3,0,1,3,2,2,0,3,2,2.95,Development,Web Developer
+3,1,1,2,1,0,1,2,1,1,2.76,AI,AI Engineer
+2,3,0,3,2,2,3,3,3,3,2.5,Development,Software Engineer
+1,3,0,0,2,3,2,3,2,2,3.46,Cloud,Cloud Engineer
+1,0,1,0,1,2,3,3,3,2,3.54,Cloud,DevOps Engineer
+1,0,0,1,0,0,1,2,2,1,2.84,Security,Cyber Security Analyst
+3,1,2,3,2,3,3,2,1,1,3.97,AI,AI Engineer
+1,3,2,0,3,0,3,1,1,3,2.61,Database,Database Administrator
+1,2,0,1,3,3,2,2,3,2,3.85,Cloud,Cloud Engineer
+3,2,3,3,3,2,3,2,3,3,4.0,AI,AI Engineer
+3,2,3,0,1,2,3,2,1,3,2.73,Development,Software Engineer
+2,0,3,3,2,1,3,2,2,3,3.26,Development,Software Engineer
+2,1,3,2,1,1,1,2,3,3,2.96,Data,Data Scientist
+1,1,3,3,2,2,1,2,1,2,2.96,Development,Web Developer
+2,0,3,1,1,3,2,3,2,3,2.94,Security,Cyber Security Analyst
+2,2,1,2,1,2,2,1,3,2,3.3,Database,Database Administrator
+1,0,0,0,1,0,2,2,1,1,2.73,Cloud,DevOps Engineer
+1,3,3,3,3,3,2,2,3,1,2.82,Database,Database Administrator
+1,3,0,1,3,1,2,2,1,2,3.43,Cloud,DevOps Engineer
+3,3,1,3,2,2,0,2,1,3,2.78,AI,AI Engineer
+1,0,0,1,2,3,2,2,1,2,3.23,Development,Web Developer
+3,3,3,3,0,0,0,2,3,2,3.31,Data,Data Scientist
+2,2,1,0,1,2,2,3,2,3,2.58,Development,Software Engineer
+1,3,3,0,2,2,2,2,2,3,2.97,Cloud,DevOps Engineer
+1,1,1,1,1,3,2,3,2,2,3.43,Cloud,DevOps Engineer
+2,3,2,0,1,0,0,1,1,3,2.95,Database,Database Administrator
+1,3,3,3,0,2,1,2,3,1,2.69,Security,Cyber Security Analyst
+3,0,1,3,1,2,3,2,3,3,3.83,AI,AI Engineer
+2,3,3,2,0,2,2,3,1,3,3.38,Data,Data Scientist
+3,1,3,2,1,1,0,2,3,1,3.61,Development,Software Engineer
+2,3,3,2,1,1,3,3,2,1,2.65,AI,AI Engineer
+1,2,3,1,0,2,1,1,2,2,3.92,Database,Database Administrator
+2,1,2,3,1,0,3,2,2,1,3.01,Cloud,DevOps Engineer
+3,1,2,3,1,3,1,3,3,2,3.13,Data,Data Scientist
+1,0,3,1,2,2,1,3,1,1,3.75,Development,Web Developer
+2,0,1,2,1,2,2,2,3,1,3.04,Development,Software Engineer
+2,3,1,2,2,2,2,3,2,2,2.67,Cloud,DevOps Engineer
+2,1,2,1,2,1,0,3,1,3,2.96,Development,Software Engineer
+2,3,3,1,1,0,3,2,2,2,3.07,Database,Database Administrator
+2,1,1,0,1,2,0,2,3,2,2.7,Development,Software Engineer
+2,1,2,3,1,2,0,2,1,1,3.62,Data,Data Scientist
+1,1,2,2,3,1,3,3,3,2,3.15,Cloud,Cloud Engineer
+1,2,0,1,3,2,1,1,1,1,2.94,Development,Web Developer
+3,3,2,2,1,3,1,2,1,1,3.9,AI,AI Engineer
+1,0,1,3,1,0,3,3,1,2,3.94,Cloud,Cloud Engineer
+1,1,2,3,3,1,2,2,2,1,3.48,Cloud,Cloud Engineer
+2,2,1,2,2,2,3,1,3,2,3.37,Database,Database Administrator
+2,3,2,0,2,0,2,3,3,2,3.0,Security,Cyber Security Analyst
+2,0,3,0,2,2,2,3,3,1,2.61,Development,Web Developer
+2,2,2,2,3,3,1,3,1,2,3.74,AI,AI Engineer
+1,2,2,1,1,1,1,3,2,3,3.28,Security,Cyber Security Analyst
+2,1,0,2,3,1,2,2,3,1,3.09,Security,Cyber Security Analyst
+2,2,1,2,0,0,3,2,2,1,3.47,Cloud,Cloud Engineer
+2,3,0,1,1,3,2,1,3,2,2.77,Database,Database Administrator
+2,2,0,3,0,2,3,2,2,1,3.45,Cloud,Cloud Engineer
+2,3,3,0,3,2,3,3,1,3,3.84,Development,Web Developer
+1,1,0,1,0,0,2,2,2,1,3.7,Cloud,DevOps Engineer
+2,2,1,2,1,1,2,1,2,3,3.6,Database,Database Administrator
+2,3,0,2,0,3,3,2,2,1,3.58,Cloud,DevOps Engineer
+2,2,2,3,1,2,3,3,2,2,2.58,Cloud,DevOps Engineer
+1,2,0,1,2,2,1,2,3,1,2.89,Development,Web Developer
+2,3,2,1,3,3,3,3,1,3,2.76,Cloud,Cloud Engineer
+2,2,3,0,3,1,3,1,1,2,3.25,Database,Database Administrator
+2,1,1,0,3,1,2,3,3,2,2.53,Cloud,DevOps Engineer
+1,2,0,0,0,2,2,2,1,1,2.82,Cloud,Cloud Engineer
+2,0,3,2,0,3,2,3,3,2,3.25,Security,Cyber Security Analyst
+1,0,3,3,2,3,2,3,1,1,3.68,Cloud,Cloud Engineer
+3,3,3,2,1,1,0,2,2,2,3.24,Data,Data Scientist
+2,0,3,0,2,3,0,0,1,2,2.64,Development,Web Developer
+2,3,0,0,3,2,1,2,2,1,3.57,Security,Cyber Security Analyst
+1,1,2,3,1,1,2,2,3,1,3.0,Security,Cyber Security Analyst
+1,1,3,0,2,0,2,3,2,2,3.83,Cloud,Cloud Engineer
+2,3,0,1,0,1,3,2,1,3,3.62,Cloud,DevOps Engineer
+2,1,1,1,2,2,1,3,3,2,3.26,Development,Web Developer
+2,3,2,0,3,0,2,3,2,2,2.56,Security,Cyber Security Analyst
+2,0,1,2,3,3,3,3,1,1,3.69,AI,AI Engineer
+3,1,3,3,1,2,3,2,1,2,3.28,Data,Data Scientist
+1,2,3,0,2,2,0,1,2,1,3.91,Database,Database Administrator
+1,2,0,0,3,3,1,3,2,3,2.59,Development,Web Developer
+3,1,3,2,3,0,2,2,1,1,3.79,Data,Data Scientist
+2,0,3,2,1,2,2,2,2,1,3.37,Cloud,Cloud Engineer
+2,3,3,3,1,1,1,2,2,1,2.65,Data,Data Scientist
+2,1,3,1,1,2,1,2,1,1,3.34,Development,Software Engineer
+1,0,2,2,2,3,1,3,1,3,2.8,Security,Cyber Security Analyst
+2,2,1,3,0,1,3,3,1,2,3.7,Cloud,DevOps Engineer
+1,1,3,1,0,1,2,3,2,1,3.01,Cloud,DevOps Engineer
+3,2,2,3,2,1,2,2,2,3,3.49,Development,Software Engineer
+2,2,2,1,1,1,2,3,2,3,3.13,Security,Cyber Security Analyst
+2,2,3,1,2,2,1,3,1,2,3.96,Development,Software Engineer
+3,0,3,2,0,1,3,2,1,2,3.25,AI,AI Engineer
+2,3,0,1,3,3,2,3,2,2,2.6,Development,Web Developer
+3,2,3,3,2,0,1,3,2,1,3.96,AI,AI Engineer
+1,3,2,0,3,3,1,1,1,1,3.9,Database,Database Administrator
+2,2,1,0,2,1,0,2,3,1,2.64,Development,Software Engineer
+3,2,3,2,2,0,1,3,2,3,2.99,AI,AI Engineer
+2,1,1,2,0,2,3,3,3,1,3.03,Cloud,Cloud Engineer
+1,3,2,1,2,2,3,3,1,3,3.21,Cloud,Cloud Engineer
+2,3,3,2,0,2,0,1,2,1,3.73,Database,Database Administrator
+1,3,3,1,3,3,2,3,2,3,2.87,Cloud,DevOps Engineer
+2,3,2,2,2,1,0,1,2,3,2.56,Database,Database Administrator
+2,3,3,2,2,3,1,3,2,2,3.71,AI,AI Engineer
+3,2,0,0,1,2,0,3,2,3,3.76,Development,Software Engineer
+2,3,3,2,3,3,3,3,2,1,3.49,AI,AI Engineer
+1,3,1,1,0,2,3,1,3,1,2.7,Database,Database Administrator
+2,2,2,3,1,2,3,2,2,2,3.24,Database,Database Administrator
+2,0,3,3,0,0,3,3,1,3,2.74,Cloud,DevOps Engineer
+2,0,1,3,3,1,1,3,1,2,3.7,AI,AI Engineer
+3,1,2,2,3,2,2,2,2,3,3.64,AI,AI Engineer
+2,3,3,1,3,3,0,1,3,3,3.95,Development,Web Developer
+2,1,0,0,2,2,2,3,2,2,2.98,Cloud,Cloud Engineer
+1,1,0,3,1,2,2,3,2,2,3.16,Cloud,DevOps Engineer
+1,0,0,2,3,0,2,2,3,3,3.81,Security,Cyber Security Analyst
+2,1,3,3,1,3,2,2,2,3,2.89,Data,Data Scientist
+1,3,3,1,0,0,2,1,2,3,3.35,Database,Database Administrator
+1,0,0,0,3,2,1,3,1,1,2.98,Security,Cyber Security Analyst
+2,1,1,0,3,3,1,0,2,3,3.13,Development,Web Developer
+3,3,1,3,0,1,0,3,3,3,3.99,AI,AI Engineer
+2,2,1,0,0,3,2,2,2,1,3.0,Database,Database Administrator
+3,3,2,1,1,2,2,3,3,2,2.92,Development,Software Engineer
+2,2,0,0,0,1,0,2,2,2,3.65,Database,Database Administrator
+1,0,3,1,3,3,3,2,1,2,3.16,Cloud,Cloud Engineer
+2,0,3,1,2,3,2,3,3,2,3.45,Cloud,DevOps Engineer
+2,2,1,1,2,1,1,2,2,1,2.83,Development,Software Engineer
+1,0,1,2,0,0,1,3,3,1,3.62,Security,Cyber Security Analyst
+2,2,1,2,3,1,1,1,1,3,3.32,Database,Database Administrator
+2,0,1,1,3,1,1,3,3,3,2.71,Security,Cyber Security Analyst
+2,3,2,2,2,1,3,2,3,2,3.16,Development,Software Engineer
+3,0,3,2,3,1,3,2,2,1,3.53,AI,AI Engineer
+3,1,3,2,3,2,1,3,1,2,2.83,Data,Data Scientist
+1,1,3,0,0,3,2,3,2,1,2.78,Cloud,DevOps Engineer
+1,2,1,3,1,1,2,1,2,2,2.64,Database,Database Administrator
+1,3,0,1,0,2,2,2,1,1,3.59,Cloud,Cloud Engineer
+2,1,3,3,2,3,0,3,3,2,2.56,AI,AI Engineer
+1,3,2,3,3,1,3,1,2,1,2.61,Database,Database Administrator
+2,3,3,3,2,1,1,2,1,2,2.96,Data,Data Scientist
+2,3,2,2,0,1,2,3,2,3,3.44,Cloud,DevOps Engineer
+3,0,3,2,1,0,2,3,3,1,3.49,AI,AI Engineer
+2,3,2,1,0,0,2,2,2,2,3.83,Cloud,Cloud Engineer
+2,3,0,3,2,0,3,2,1,3,3.16,Database,Database Administrator
+1,0,0,3,3,3,1,0,2,3,3.05,Development,Web Developer
+2,3,2,1,3,1,3,2,1,2,3.47,Cloud,DevOps Engineer
+2,2,0,2,1,2,0,2,2,3,2.52,Development,Software Engineer
+2,1,1,1,3,3,3,3,3,2,3.84,Cloud,Cloud Engineer
+1,0,0,0,3,2,1,1,1,3,3.8,Development,Web Developer
+2,0,3,1,2,2,3,0,3,2,3.51,Development,Web Developer
+2,3,2,2,1,1,0,2,3,1,2.64,Database,Database Administrator
+1,1,0,1,2,2,2,3,3,1,2.87,Development,Web Developer
+1,1,1,3,2,3,1,0,2,3,3.49,Development,Web Developer
+2,1,0,2,3,2,2,3,2,2,3.36,Cloud,DevOps Engineer
+2,2,0,3,2,2,3,3,1,3,2.71,Cloud,Cloud Engineer
+3,1,2,3,3,3,1,2,1,1,3.05,AI,AI Engineer
+3,3,3,2,2,2,1,2,3,3,3.01,Data,Data Scientist
+1,0,1,2,3,2,2,2,1,2,3.52,Security,Cyber Security Analyst
+3,0,2,3,2,3,1,3,1,3,3.14,AI,AI Engineer
+1,1,0,3,2,3,2,2,1,3,2.79,Security,Cyber Security Analyst
+1,0,0,0,2,3,3,2,1,1,3.01,Cloud,DevOps Engineer
+1,1,3,0,2,2,2,1,3,1,3.47,Development,Web Developer
+3,0,3,1,2,2,0,3,2,3,2.79,Development,Software Engineer
+1,3,3,2,3,0,2,2,2,2,3.44,Cloud,DevOps Engineer
+3,1,2,3,3,3,3,3,3,3,3.79,Data,Data Scientist
+2,3,1,2,3,1,3,3,2,3,2.81,AI,AI Engineer
+2,2,3,2,1,3,3,2,3,1,2.67,Data,Data Scientist
+1,2,0,2,3,0,3,2,2,1,2.72,Cloud,DevOps Engineer
+3,3,3,3,3,1,1,3,3,3,2.54,AI,AI Engineer
+1,0,3,2,3,3,3,2,1,2,3.36,Cloud,Cloud Engineer
+1,2,0,0,2,2,3,1,3,2,3.37,Development,Web Developer
+2,0,1,1,0,0,3,3,2,1,3.81,Cloud,Cloud Engineer
+1,2,0,2,2,0,2,3,3,3,3.16,Security,Cyber Security Analyst
+2,3,0,1,0,0,2,2,1,1,2.82,Database,Database Administrator
+1,3,3,2,1,1,3,3,1,2,3.03,Cloud,DevOps Engineer
+2,1,3,1,2,2,2,0,2,2,3.51,Development,Web Developer
+2,0,2,0,2,1,2,2,3,1,2.66,Development,Software Engineer
+1,0,0,3,3,2,2,2,3,2,2.53,Development,Web Developer
+3,2,1,3,2,1,3,2,1,2,2.91,Development,Software Engineer
+2,2,2,3,3,0,1,3,2,3,3.64,Data,Data Scientist
+3,3,1,2,0,3,0,3,1,3,2.62,AI,AI Engineer
+2,1,0,2,3,2,2,2,1,1,3.32,Cloud,DevOps Engineer
+2,0,1,3,3,1,3,3,3,2,2.56,Cloud,DevOps Engineer
+2,3,2,2,2,1,3,2,3,1,3.91,Cloud,DevOps Engineer
+3,0,2,0,1,2,3,2,3,2,2.93,Development,Software Engineer
+1,0,3,1,2,3,0,3,1,3,2.81,Development,Web Developer
+1,3,1,3,2,0,0,2,2,3,3.94,Database,Database Administrator
+2,2,0,2,2,2,0,2,2,1,2.9,Development,Web Developer
+1,3,0,3,0,0,3,3,3,1,2.65,Cloud,DevOps Engineer
+2,2,3,2,1,3,0,2,2,2,3.59,Data,Data Scientist
+2,3,2,3,0,0,3,3,1,2,3.21,Data,Data Scientist
+2,2,1,0,0,0,3,3,3,3,3.59,Cloud,Cloud Engineer
+1,3,1,0,0,3,1,2,2,3,3.18,Database,Database Administrator
+2,2,2,0,3,3,0,2,1,1,3.48,Database,Database Administrator
+2,3,1,1,1,2,3,3,1,2,3.45,Development,Software Engineer
+1,1,3,1,2,3,2,3,3,1,3.13,Development,Web Developer
+1,3,1,0,2,1,2,2,2,3,3.35,Cloud,DevOps Engineer
+3,2,1,0,1,1,0,2,1,1,3.07,Development,Software Engineer
+3,1,3,3,2,1,1,3,1,2,3.99,Data,Data Scientist
+1,0,1,2,2,3,3,3,1,2,2.69,Cloud,Cloud Engineer
+2,3,0,2,3,1,2,2,3,3,3.27,Security,Cyber Security Analyst
+2,2,2,2,3,1,1,2,3,2,3.23,Data,Data Scientist
+2,3,3,2,2,2,2,3,2,3,3.1,Development,Software Engineer
+2,1,2,2,1,0,2,3,3,1,3.68,Cloud,DevOps Engineer
+3,2,3,2,0,0,3,3,2,3,3.94,AI,AI Engineer
+2,2,2,1,2,1,2,2,3,1,3.57,Development,Software Engineer
+3,0,2,2,2,1,3,3,2,3,3.62,AI,AI Engineer
+3,2,2,2,3,3,0,3,3,2,3.06,Data,Data Scientist
+1,0,0,1,0,3,3,2,3,1,2.84,Cloud,DevOps Engineer
+3,3,3,2,1,0,1,3,3,1,2.58,Data,Data Scientist
+1,2,2,2,1,0,3,2,3,2,2.87,Cloud,Cloud Engineer
+2,3,3,2,2,0,1,3,1,2,3.66,AI,AI Engineer
+3,2,2,2,0,2,2,3,3,3,2.7,AI,AI Engineer
+2,0,0,3,1,0,3,3,2,1,3.93,Cloud,Cloud Engineer
+2,0,1,0,3,3,1,3,3,2,3.88,Development,Web Developer
+3,0,1,3,1,3,1,2,3,3,2.61,AI,AI Engineer
+2,1,1,0,0,1,2,2,2,2,2.55,Security,Cyber Security Analyst
+2,1,3,2,2,3,0,2,2,2,3.73,AI,AI Engineer
+2,3,3,2,2,0,3,3,1,2,3.44,Cloud,Cloud Engineer
+3,0,2,3,1,2,2,3,1,2,3.61,AI,AI Engineer
+2,2,0,3,0,1,2,3,3,3,3.56,Security,Cyber Security Analyst
+2,2,0,2,3,3,1,1,1,3,3.47,Database,Database Administrator
+1,1,0,1,1,0,1,3,1,2,3.4,Security,Cyber Security Analyst
+2,2,3,3,1,1,1,2,3,2,3.19,Data,Data Scientist
+3,2,2,2,0,0,0,2,3,3,3.95,AI,AI Engineer
+2,3,0,0,1,1,1,2,1,1,3.49,Development,Software Engineer
+3,2,3,3,0,0,1,2,1,1,3.25,Data,Data Scientist
+1,0,3,2,2,1,3,3,1,2,2.6,Cloud,Cloud Engineer
+2,0,0,0,3,3,2,3,2,2,3.75,Development,Web Developer
+1,1,2,1,0,2,3,3,3,2,3.16,Cloud,DevOps Engineer
+3,3,3,3,2,1,1,3,1,2,3.91,Data,Data Scientist
+1,0,1,3,2,2,2,2,2,3,2.91,Development,Web Developer
+2,3,0,3,3,1,2,1,3,3,3.74,Database,Database Administrator
+3,2,2,2,1,1,1,2,1,1,2.64,Development,Software Engineer
+2,2,1,3,2,2,3,3,2,3,3.34,AI,AI Engineer
+2,3,0,1,0,3,2,3,1,3,3.27,Cloud,DevOps Engineer
+1,3,3,0,0,0,0,2,3,2,2.63,Database,Database Administrator
+2,2,0,2,2,1,1,3,3,2,3.33,Security,Cyber Security Analyst
+2,2,0,3,3,2,0,2,3,3,2.56,Development,Web Developer
+1,1,0,3,2,3,3,2,1,1,3.24,Cloud,DevOps Engineer
+2,3,2,2,2,3,1,3,2,2,3.3,Security,Cyber Security Analyst
+2,2,1,2,2,3,2,1,2,3,3.22,Database,Database Administrator
+1,3,1,0,1,1,3,2,1,3,3.59,Database,Database Administrator
+2,1,2,2,1,1,1,2,2,1,2.55,Data,Data Scientist
+1,2,0,1,0,1,2,2,2,3,2.99,Database,Database Administrator
+3,1,3,2,3,1,2,2,1,2,3.82,Data,Data Scientist
+2,3,0,0,0,0,2,3,1,2,3.95,Cloud,DevOps Engineer
+1,2,3,3,1,1,1,2,2,3,3.65,Security,Cyber Security Analyst
+2,1,3,2,0,2,1,2,1,2,2.59,Data,Data Scientist
+3,2,3,2,0,1,2,2,3,2,3.65,AI,AI Engineer
+1,2,0,1,1,1,2,2,3,3,3.51,Cloud,Cloud Engineer
+1,2,2,2,0,3,3,1,3,1,2.76,Database,Database Administrator
+3,2,2,3,1,1,2,3,2,3,3.33,Data,Data Scientist
+3,3,2,3,2,1,1,3,3,3,2.76,Data,Data Scientist
+2,3,1,0,3,0,2,3,1,2,3.25,Cloud,Cloud Engineer
+1,3,0,3,2,3,0,2,3,1,2.62,Database,Database Administrator
+2,2,1,2,2,0,3,1,2,2,2.68,Database,Database Administrator
+2,2,1,2,2,0,0,2,1,3,3.66,AI,AI Engineer
+2,3,3,2,1,3,2,3,2,3,3.26,Security,Cyber Security Analyst
+1,2,1,1,3,2,2,0,1,1,3.23,Development,Web Developer
+3,0,1,2,3,3,2,3,2,3,3.3,AI,AI Engineer
+2,3,3,1,3,1,2,3,1,3,3.32,Security,Cyber Security Analyst
+1,0,1,0,0,0,3,2,1,3,3.36,Cloud,DevOps Engineer
+3,2,2,2,0,3,2,2,1,3,3.89,AI,AI Engineer
+2,0,0,0,0,2,2,2,3,3,3.18,Cloud,Cloud Engineer
+3,0,2,3,1,3,0,2,2,3,2.68,AI,AI Engineer
+3,0,1,3,3,3,1,3,3,2,3.0,AI,AI Engineer
+2,0,1,1,2,1,3,2,2,1,3.35,Cloud,DevOps Engineer
+2,1,2,3,3,2,0,1,3,1,3.03,Development,Web Developer
+1,3,0,3,2,2,2,2,3,3,3.79,Cloud,Cloud Engineer
+1,2,2,3,2,2,3,2,1,2,2.69,Cloud,DevOps Engineer
+1,3,1,2,3,2,3,1,2,1,2.67,Development,Web Developer
+2,2,1,1,3,2,1,3,2,2,3.07,Security,Cyber Security Analyst
+2,2,2,2,2,3,0,2,2,2,2.64,Development,Web Developer
+3,2,0,3,1,1,0,3,1,2,3.79,Development,Software Engineer
+1,1,0,3,3,0,3,3,3,1,3.81,Cloud,DevOps Engineer
+2,2,3,3,1,0,3,2,1,3,3.79,Database,Database Administrator
+2,3,0,2,1,3,0,2,2,1,3.67,Database,Database Administrator
+1,2,0,1,1,3,2,2,1,1,3.13,Cloud,DevOps Engineer
+2,2,1,2,1,2,2,3,2,1,2.87,AI,AI Engineer
+2,1,2,2,3,0,1,2,1,2,3.31,Security,Cyber Security Analyst
+2,3,3,3,3,2,1,3,2,3,3.03,AI,AI Engineer
+1,3,1,3,0,1,1,1,3,3,3.98,Database,Database Administrator
+1,2,2,2,3,2,2,2,2,2,3.35,Development,Web Developer
+3,3,3,2,3,3,0,2,1,2,3.03,Data,Data Scientist
+3,0,1,1,2,2,2,3,1,2,2.98,Development,Software Engineer
+3,0,1,0,1,1,3,3,3,2,3.2,Development,Software Engineer
+1,3,2,3,1,3,3,2,1,3,2.9,Cloud,DevOps Engineer
+2,3,1,3,1,3,2,2,2,1,3.19,Cloud,Cloud Engineer
+3,0,3,1,1,1,1,3,3,3,2.64,Development,Software Engineer
+2,0,3,2,3,1,3,2,3,1,2.91,Cloud,Cloud Engineer
+2,0,2,2,1,3,3,3,2,2,2.84,Cloud,Cloud Engineer
+2,0,3,1,2,1,3,2,2,2,2.51,Development,Software Engineer
+3,0,1,0,2,2,3,2,1,1,2.54,Development,Software Engineer
+2,3,0,3,3,2,2,3,1,3,2.63,Cloud,DevOps Engineer
+2,2,1,1,1,1,1,3,3,2,3.83,Development,Software Engineer
+2,3,3,3,0,1,1,2,3,3,3.16,Security,Cyber Security Analyst
+2,3,1,2,3,1,1,3,1,2,3.88,AI,AI Engineer
+1,1,2,2,1,0,2,3,1,3,3.52,Cloud,DevOps Engineer
+2,0,1,3,1,3,3,2,3,2,3.59,Cloud,DevOps Engineer
+1,1,3,2,3,2,3,1,1,1,3.09,Development,Web Developer
+3,3,3,2,3,2,2,2,3,2,3.64,AI,AI Engineer
+2,0,3,2,3,3,2,3,3,3,2.81,Development,Web Developer
+2,2,3,0,3,1,2,2,2,3,3.26,Cloud,Cloud Engineer
+2,2,2,2,2,1,2,3,2,1,2.9,Data,Data Scientist
+3,1,2,3,3,2,3,3,1,1,3.07,Data,Data Scientist
+2,0,2,0,2,3,3,3,2,2,3.12,Cloud,Cloud Engineer
+2,0,2,1,3,2,0,0,3,3,2.81,Development,Web Developer
+2,1,3,2,2,0,1,2,1,1,3.29,AI,AI Engineer
+2,0,2,1,3,3,2,3,2,2,2.74,Security,Cyber Security Analyst
+1,3,1,1,2,3,2,1,2,2,3.88,Development,Web Developer
+2,3,3,2,3,3,1,1,3,1,3.4,Development,Web Developer
+1,2,2,2,1,2,2,2,3,3,3.62,Database,Database Administrator
+2,3,2,3,2,2,1,2,3,3,3.32,Data,Data Scientist
+2,0,2,3,3,3,2,2,3,3,3.34,AI,AI Engineer
+2,3,1,1,2,2,3,0,2,2,3.56,Development,Web Developer
+2,2,1,0,3,2,2,3,3,2,3.89,Cloud,DevOps Engineer
+2,2,3,2,0,1,1,2,3,3,3.82,AI,AI Engineer
+1,1,1,1,3,2,2,3,1,2,3.65,Cloud,DevOps Engineer
+2,1,2,3,2,2,0,3,3,2,3.26,Development,Software Engineer
+2,1,0,2,1,3,1,3,2,1,3.1,Security,Cyber Security Analyst
+2,0,0,2,2,3,2,3,2,1,3.0,Development,Web Developer
+2,0,1,2,3,2,1,3,3,2,2.55,Security,Cyber Security Analyst
+2,3,3,0,1,2,1,2,3,3,3.41,Development,Software Engineer
+1,0,1,2,3,3,1,3,2,1,3.01,Development,Web Developer
+1,1,0,1,0,2,1,3,2,1,3.18,Security,Cyber Security Analyst
+2,2,1,3,3,3,3,3,3,1,3.69,Cloud,Cloud Engineer
+1,2,0,1,0,2,0,1,1,2,3.74,Database,Database Administrator
+3,3,2,2,1,1,1,2,3,1,3.73,Data,Data Scientist
+1,0,3,1,0,3,1,3,1,3,3.5,Security,Cyber Security Analyst
+2,0,3,1,2,3,0,0,1,1,3.41,Development,Web Developer
+2,0,1,1,1,0,2,3,1,2,3.2,Security,Cyber Security Analyst
+3,0,3,1,1,1,1,2,3,3,3.05,Development,Software Engineer
+2,1,0,1,3,3,2,2,1,1,2.8,Cloud,DevOps Engineer
+1,0,0,1,3,2,0,2,2,3,3.26,Development,Web Developer
+2,1,2,3,3,1,3,2,1,1,3.1,AI,AI Engineer
+2,1,2,2,0,2,0,3,1,1,3.18,Data,Data Scientist
+1,2,3,1,1,2,1,2,2,2,3.68,Security,Cyber Security Analyst
+3,1,3,3,3,3,3,2,3,1,3.96,Data,Data Scientist
+2,0,0,2,0,0,3,3,2,2,3.83,Cloud,Cloud Engineer
+2,0,3,1,0,2,2,2,2,1,2.81,Cloud,Cloud Engineer
+2,1,2,3,0,1,1,2,3,2,3.46,AI,AI Engineer
+1,1,2,1,0,1,3,2,2,3,3.76,Cloud,DevOps Engineer
+2,0,3,2,2,0,2,3,2,2,3.68,Cloud,Cloud Engineer
+2,3,1,3,2,3,0,2,3,3,2.89,Development,Web Developer
+2,3,1,1,2,3,3,2,1,2,3.88,Cloud,Cloud Engineer
+1,1,1,3,1,0,3,2,1,3,3.17,Cloud,Cloud Engineer
+2,0,1,2,1,0,1,3,2,2,3.82,Security,Cyber Security Analyst
+3,3,2,3,0,1,1,3,2,3,3.73,Data,Data Scientist
+2,1,2,3,0,2,2,3,3,3,3.56,Data,Data Scientist
+2,2,1,0,3,0,2,2,2,1,2.59,Security,Cyber Security Analyst
+1,2,0,0,2,2,2,1,2,2,3.77,Development,Web Developer
+1,1,2,3,2,3,2,1,2,3,2.79,Development,Web Developer
+1,3,1,1,2,3,2,2,3,3,3.67,Development,Web Developer
+3,2,1,3,3,1,1,3,2,2,3.2,AI,AI Engineer
+2,2,0,1,2,1,3,3,1,1,3.68,Development,Software Engineer
+2,2,3,0,2,2,1,0,2,1,3.95,Development,Web Developer
+2,0,1,2,3,1,0,2,3,2,3.34,AI,AI Engineer
+2,3,2,2,1,0,2,2,2,3,3.98,Cloud,Cloud Engineer
+2,0,0,2,0,0,1,2,2,2,3.67,Security,Cyber Security Analyst
+1,1,2,2,0,3,2,2,1,1,3.92,Cloud,DevOps Engineer
+1,2,2,3,2,2,3,2,1,1,2.96,Development,Web Developer
+3,2,3,3,1,2,1,2,2,1,3.29,Development,Software Engineer
+2,3,3,2,1,0,3,3,3,1,3.02,Data,Data Scientist
+2,2,1,3,2,2,2,2,1,3,2.51,Development,Software Engineer
+1,0,2,2,3,1,2,3,1,1,2.97,Cloud,DevOps Engineer
+1,3,3,0,2,2,1,3,1,3,3.59,Security,Cyber Security Analyst
+3,3,3,3,0,0,0,2,2,2,3.55,Data,Data Scientist
+3,0,3,2,1,1,0,2,3,1,3.3,AI,AI Engineer
+1,1,2,2,2,3,2,2,2,3,3.27,Security,Cyber Security Analyst
+2,1,1,2,1,0,1,2,2,3,3.96,Security,Cyber Security Analyst
+1,2,0,1,3,1,2,2,3,1,3.51,Cloud,DevOps Engineer
+3,3,2,2,2,1,1,2,3,3,2.75,Data,Data Scientist
+3,2,3,3,3,3,3,3,2,3,3.49,Data,Data Scientist
+2,1,3,2,0,0,2,3,3,3,2.6,Security,Cyber Security Analyst
+3,3,2,2,3,0,2,3,1,1,3.27,Data,Data Scientist
+3,3,3,2,1,0,2,2,1,2,3.19,Data,Data Scientist
+3,2,3,2,2,1,1,2,1,2,3.31,Development,Software Engineer
+2,0,1,3,3,3,3,0,3,2,2.88,Development,Web Developer
+3,3,2,2,1,2,2,2,2,1,2.73,AI,AI Engineer
+1,0,0,0,2,3,1,1,1,2,3.47,Development,Web Developer
+1,2,1,3,3,0,3,1,2,3,2.92,Database,Database Administrator
+3,1,2,0,1,2,2,2,2,1,2.6,Development,Software Engineer
+2,0,3,2,2,2,1,2,1,3,3.07,Security,Cyber Security Analyst
+2,0,0,1,2,3,1,3,2,3,2.67,Development,Web Developer
+1,0,3,0,2,3,2,2,3,2,2.68,Cloud,Cloud Engineer
+3,1,0,1,1,1,1,3,2,1,3.28,Development,Software Engineer
+1,3,2,2,1,0,2,3,3,2,2.67,Cloud,DevOps Engineer
+1,2,0,3,0,0,3,2,2,1,3.01,Database,Database Administrator
+2,1,2,3,3,1,1,3,1,1,2.98,AI,AI Engineer
+2,3,3,3,3,2,2,1,1,3,3.6,Development,Web Developer
+2,3,3,0,2,2,2,2,1,1,3.61,Development,Software Engineer
+1,2,2,2,1,3,1,2,1,1,3.97,Database,Database Administrator
+1,3,0,1,3,1,0,1,3,2,2.75,Database,Database Administrator
+1,0,0,2,2,0,2,3,2,2,3.25,Security,Cyber Security Analyst
+1,2,0,0,3,3,1,0,1,1,3.04,Development,Web Developer
+1,3,3,2,3,3,1,1,3,2,2.72,Development,Web Developer
+3,0,3,2,3,2,1,3,3,3,2.62,AI,AI Engineer
+1,1,0,2,1,1,3,3,2,3,2.71,Cloud,Cloud Engineer
+1,3,0,2,2,3,2,3,1,1,3.47,Development,Web Developer
+2,3,2,2,0,2,2,3,3,1,3.16,Cloud,DevOps Engineer
+1,2,1,0,1,0,3,3,1,2,2.81,Cloud,Cloud Engineer
+1,1,2,0,3,0,3,2,2,3,3.48,Cloud,Cloud Engineer
+2,0,2,2,3,2,2,3,1,1,2.89,AI,AI Engineer
+1,0,0,0,1,3,2,3,2,2,3.67,Cloud,Cloud Engineer
+1,1,3,0,2,3,0,2,2,3,2.72,Development,Web Developer
+2,2,1,0,3,3,0,1,2,2,3.34,Development,Web Developer
+3,2,3,3,1,1,0,2,3,1,3.31,Data,Data Scientist
+1,1,0,0,3,3,3,0,2,3,3.02,Development,Web Developer
+2,3,0,3,1,0,2,3,3,2,3.99,Security,Cyber Security Analyst
+2,2,2,0,2,1,3,3,2,2,3.75,Development,Software Engineer
+3,0,1,3,0,2,0,2,1,3,3.25,AI,AI Engineer
+1,2,0,0,1,0,1,1,1,2,3.02,Database,Database Administrator
+2,2,0,1,2,3,2,1,2,2,2.59,Database,Database Administrator
+1,3,0,0,2,0,1,1,3,1,3.88,Database,Database Administrator
+2,3,1,1,2,2,0,2,3,2,3.55,Database,Database Administrator
+2,3,1,2,3,3,0,1,1,3,2.7,Development,Web Developer
+2,1,1,1,3,2,3,2,1,2,2.91,Cloud,DevOps Engineer
+3,2,1,3,2,0,0,3,2,1,3.75,AI,AI Engineer
+1,2,3,0,3,3,1,2,1,3,3.43,Development,Web Developer
+2,3,3,2,2,0,2,3,3,3,3.47,Data,Data Scientist
+2,3,2,3,0,2,0,3,2,1,3.72,AI,AI Engineer
+2,2,1,1,2,2,2,2,1,2,3.24,Database,Database Administrator
+1,3,1,2,0,3,2,2,2,3,3.13,Cloud,DevOps Engineer
+2,2,2,0,3,3,2,1,1,1,2.86,Development,Web Developer
+2,0,0,0,1,3,1,2,3,3,3.26,Security,Cyber Security Analyst
+1,0,3,0,2,2,0,2,1,2,3.01,Development,Web Developer
+2,1,1,2,0,1,1,2,1,2,3.47,AI,AI Engineer
+2,1,3,1,3,1,2,3,2,3,3.81,Security,Cyber Security Analyst
+2,0,3,3,2,2,2,2,3,1,3.93,Development,Software Engineer
+2,3,1,3,0,3,0,3,3,2,3.01,AI,AI Engineer
+2,2,1,3,2,3,0,1,2,1,2.99,Development,Web Developer
+1,3,1,2,1,1,2,3,2,3,3.42,Cloud,Cloud Engineer
+2,0,2,0,3,2,3,3,3,3,2.82,Cloud,DevOps Engineer
+1,2,0,3,2,3,3,1,3,2,3.83,Development,Web Developer
+1,1,1,2,2,3,3,3,1,1,3.55,Cloud,Cloud Engineer
+2,0,1,0,3,0,2,2,2,2,3.63,Security,Cyber Security Analyst
+2,1,1,1,2,2,3,0,1,2,3.8,Development,Web Developer
+1,2,1,1,0,0,1,1,3,3,3.44,Database,Database Administrator
+2,1,3,0,2,2,1,2,3,2,3.1,Security,Cyber Security Analyst
+1,1,2,3,3,0,3,3,1,3,2.86,Cloud,DevOps Engineer
+1,1,1,2,1,3,3,2,3,3,3.37,Cloud,DevOps Engineer
+1,1,2,0,2,1,2,3,2,1,3.17,Cloud,DevOps Engineer
+2,1,2,2,3,3,2,3,3,1,3.41,Development,Web Developer
+2,2,1,3,1,2,1,2,3,1,3.39,AI,AI Engineer
+3,0,1,3,1,0,2,2,2,3,2.68,AI,AI Engineer
+2,3,2,3,1,3,3,3,1,2,3.82,Data,Data Scientist
+3,1,3,3,2,2,3,2,3,1,3.26,Data,Data Scientist
+2,0,1,2,3,0,2,3,1,1,3.4,Security,Cyber Security Analyst
+2,0,0,0,3,1,3,2,2,2,2.57,Cloud,DevOps Engineer
+3,1,2,3,2,2,2,3,3,3,2.6,AI,AI Engineer
+2,2,3,3,1,0,0,2,2,3,3.43,Data,Data Scientist
+2,0,0,1,1,3,3,3,2,1,3.0,Cloud,DevOps Engineer
+3,1,2,3,0,3,1,2,2,1,3.36,Data,Data Scientist
+2,1,1,3,1,0,1,2,2,3,3.58,AI,AI Engineer
+2,3,0,3,1,0,0,1,3,3,3.65,Database,Database Administrator
+2,0,2,1,0,1,2,3,3,2,3.08,Security,Cyber Security Analyst
+2,2,2,0,2,1,0,2,3,2,3.93,Database,Database Administrator
+1,1,1,3,3,0,2,3,3,3,3.63,Cloud,Cloud Engineer
+1,3,1,2,2,0,2,3,3,2,3.25,Cloud,Cloud Engineer
+2,1,2,1,1,2,1,3,1,3,3.24,Development,Software Engineer
+2,3,0,3,2,2,1,3,3,1,3.04,Security,Cyber Security Analyst
+2,1,2,1,1,0,3,2,2,1,3.71,Cloud,Cloud Engineer
+1,2,1,0,2,0,1,2,1,3,3.29,Security,Cyber Security Analyst
+3,1,1,2,2,1,1,3,2,2,2.58,Development,Software Engineer
+2,3,1,1,2,2,3,2,3,3,3.68,Database,Database Administrator
+2,3,1,0,2,2,2,2,3,1,3.92,Development,Software Engineer
+1,0,0,3,2,3,1,1,2,2,3.09,Development,Web Developer
+2,3,1,1,3,2,2,1,2,1,2.82,Database,Database Administrator
+2,0,3,3,1,1,2,3,3,2,3.48,Cloud,DevOps Engineer
+2,3,3,1,1,1,3,2,3,1,3.4,Development,Software Engineer
+2,0,1,2,1,3,2,3,1,2,2.74,Security,Cyber Security Analyst
+3,2,3,3,2,2,2,2,2,2,3.92,Data,Data Scientist
+2,3,0,1,0,2,3,1,1,3,3.04,Database,Database Administrator
+1,0,2,2,3,2,1,3,3,3,2.77,Security,Cyber Security Analyst
+3,2,2,2,2,2,3,3,2,1,2.91,Data,Data Scientist
+2,0,0,2,2,3,1,0,1,1,2.68,Development,Web Developer
+1,0,2,2,1,0,2,3,3,3,3.39,Cloud,Cloud Engineer
+1,1,1,3,3,0,2,2,3,1,3.54,Security,Cyber Security Analyst
+2,1,2,2,2,0,2,3,1,2,2.71,Data,Data Scientist
+1,1,0,1,2,3,2,2,2,1,3.06,Development,Web Developer
+2,3,2,3,2,0,1,2,1,2,2.62,Data,Data Scientist
+1,1,2,0,1,3,2,2,1,1,3.15,Security,Cyber Security Analyst
+3,1,2,2,2,2,0,3,3,2,2.55,Development,Software Engineer
+1,2,0,1,2,3,0,2,2,1,2.6,Database,Database Administrator
+3,2,1,3,1,3,1,2,2,2,3.84,AI,AI Engineer
+1,0,3,0,1,3,2,3,3,3,2.95,Cloud,Cloud Engineer
+3,2,3,2,0,3,1,3,2,1,3.56,Data,Data Scientist
+2,1,2,0,3,3,2,3,2,3,3.71,Security,Cyber Security Analyst
+2,0,2,2,0,3,2,3,3,2,3.66,AI,AI Engineer
+2,2,2,2,1,1,2,3,2,1,2.8,Data,Data Scientist
+2,1,0,0,2,3,2,3,1,2,2.5,Cloud,DevOps Engineer
+2,1,1,1,2,2,1,2,3,1,3.94,Development,Software Engineer
+2,0,1,3,1,2,1,2,3,1,3.42,Security,Cyber Security Analyst
+1,2,0,2,1,1,1,2,3,1,3.06,Database,Database Administrator
+2,3,2,2,2,2,0,1,2,3,2.88,Development,Web Developer
+3,1,3,1,2,1,1,3,3,1,3.99,Development,Software Engineer
+1,3,2,3,1,3,0,2,3,1,2.82,Database,Database Administrator
+1,0,2,0,1,3,3,2,1,1,2.98,Cloud,DevOps Engineer
+3,2,2,3,1,2,0,3,3,1,4.0,Development,Software Engineer
+1,1,2,1,3,2,2,0,3,1,3.88,Development,Web Developer
+2,3,2,3,2,0,2,3,1,3,3.32,Data,Data Scientist
+2,2,3,2,3,3,2,2,2,3,3.84,Database,Database Administrator
+3,2,3,2,3,2,2,2,2,1,3.64,AI,AI Engineer
+1,0,0,1,2,3,2,3,1,2,2.61,Cloud,Cloud Engineer
+2,2,2,3,2,1,3,2,3,2,3.42,Cloud,Cloud Engineer
+2,2,3,3,1,1,3,2,1,3,3.42,Database,Database Administrator
+2,1,3,3,1,1,3,2,2,1,2.51,Cloud,Cloud Engineer
+1,3,1,3,3,1,2,2,1,2,3.32,Cloud,DevOps Engineer
+1,2,2,1,1,2,2,2,1,3,2.77,Cloud,Cloud Engineer
+1,1,2,0,3,2,0,2,1,2,3.59,Development,Web Developer
+3,3,2,2,2,3,2,2,1,1,3.19,Data,Data Scientist
+3,2,3,2,1,3,2,2,1,1,3.43,Data,Data Scientist
+2,3,0,1,0,1,3,3,2,2,3.11,Cloud,DevOps Engineer
+1,1,2,0,2,1,2,2,2,3,3.78,Cloud,DevOps Engineer
+2,3,3,0,0,1,2,2,2,3,3.54,Cloud,Cloud Engineer
+1,3,0,2,2,1,2,3,2,1,3.9,Cloud,Cloud Engineer
+1,3,0,0,1,1,1,1,1,2,3.47,Database,Database Administrator
+3,0,3,3,2,0,3,2,3,1,3.87,AI,AI Engineer
+1,2,3,2,2,2,3,1,2,1,3.51,Development,Web Developer
+1,3,1,3,3,1,2,2,2,1,3.59,Database,Database Administrator
+1,3,1,1,3,3,0,2,3,2,3.71,Database,Database Administrator
+2,2,0,0,3,2,2,3,3,3,2.76,Development,Web Developer
+1,3,0,1,1,0,3,2,2,3,2.94,Cloud,Cloud Engineer
+1,3,3,3,3,3,3,3,2,2,2.85,Cloud,DevOps Engineer
+1,2,0,3,2,1,2,2,3,2,3.68,Database,Database Administrator
+3,1,2,2,3,0,2,3,2,1,3.47,Data,Data Scientist
+1,3,1,1,0,1,3,1,1,2,2.69,Database,Database Administrator
+1,0,1,2,3,1,2,3,3,3,3.23,Security,Cyber Security Analyst
+2,3,2,0,0,2,2,2,2,2,3.17,Security,Cyber Security Analyst
+3,2,2,2,2,0,1,2,2,2,3.94,Data,Data Scientist
+3,1,3,3,3,1,0,3,3,1,3.68,Data,Data Scientist
+2,0,1,2,3,3,0,0,1,3,3.64,Development,Web Developer
+1,1,0,3,1,2,2,3,2,2,3.25,Security,Cyber Security Analyst
+1,1,3,0,2,3,1,3,1,3,3.52,Security,Cyber Security Analyst
+1,1,3,3,2,2,3,1,1,2,3.17,Development,Web Developer
+3,1,2,2,0,1,2,3,3,3,3.28,Data,Data Scientist
+1,3,1,1,2,3,3,2,3,3,2.7,Development,Web Developer
+2,1,1,0,0,3,2,3,1,1,3.41,Security,Cyber Security Analyst
+2,2,1,0,2,3,3,1,3,3,3.89,Database,Database Administrator
+3,2,2,2,3,3,3,2,2,2,2.66,Data,Data Scientist
+3,0,2,3,1,2,1,3,3,3,3.05,Development,Software Engineer
+1,0,2,2,2,2,1,0,2,3,3.97,Development,Web Developer
+1,0,3,3,0,2,3,3,3,3,3.01,Cloud,Cloud Engineer
+3,1,0,1,1,1,3,3,3,1,3.17,Development,Software Engineer
+1,0,2,1,3,3,3,3,3,2,2.62,Cloud,Cloud Engineer
+1,3,0,2,1,2,0,2,2,2,2.88,Database,Database Administrator
+3,0,3,2,2,2,0,3,1,1,2.85,Development,Software Engineer
+2,2,2,2,2,1,1,2,2,1,3.48,Data,Data Scientist
+3,0,3,0,1,1,0,2,3,1,3.66,Development,Software Engineer
+2,1,2,3,3,2,1,3,3,3,2.63,Data,Data Scientist
+1,0,1,0,2,2,2,3,1,3,2.85,Security,Cyber Security Analyst
+2,3,1,1,2,2,1,3,2,2,3.85,Development,Web Developer
+2,2,0,0,2,3,0,3,1,2,3.04,Development,Web Developer
+1,2,3,0,2,1,1,2,1,3,3.97,Security,Cyber Security Analyst
+2,2,3,3,0,2,3,3,3,2,3.53,AI,AI Engineer
+3,2,3,2,2,3,1,3,2,3,3.49,Data,Data Scientist
+1,2,2,2,0,1,3,2,2,1,3.26,Database,Database Administrator
+1,2,2,1,3,3,2,3,2,3,3.97,Security,Cyber Security Analyst
+2,3,3,2,2,3,2,2,1,2,3.41,Database,Database Administrator
+2,1,0,3,1,2,0,2,3,2,3.4,Development,Software Engineer
+3,0,3,2,3,3,1,2,3,2,3.32,AI,AI Engineer
+2,2,0,2,1,1,2,2,2,1,2.99,Development,Software Engineer
+2,3,1,2,3,3,2,3,2,2,3.81,Cloud,Cloud Engineer
+2,3,0,2,2,2,2,1,2,3,2.77,Development,Web Developer
+3,2,2,2,2,0,3,2,2,3,3.92,AI,AI Engineer
+1,2,2,0,2,0,2,2,1,3,2.9,Cloud,DevOps Engineer
+3,1,2,2,3,3,0,3,2,2,2.86,AI,AI Engineer
+2,1,3,3,3,1,2,3,3,2,3.8,Cloud,Cloud Engineer
+2,3,2,1,1,1,3,2,3,3,3.35,Development,Software Engineer
+2,1,2,3,1,3,2,3,2,2,3.66,Data,Data Scientist
+1,3,2,0,3,3,3,2,2,1,2.76,Database,Database Administrator
+2,3,3,0,2,1,2,3,3,2,3.0,Development,Software Engineer
+1,0,2,1,3,2,3,3,2,1,3.94,Cloud,DevOps Engineer
+1,2,3,1,1,1,3,2,1,2,3.05,Cloud,DevOps Engineer
+2,3,2,3,1,2,0,2,3,1,3.32,Development,Software Engineer
+3,1,2,2,1,1,0,2,1,3,3.45,Data,Data Scientist
+2,3,0,0,2,2,2,1,3,3,3.25,Development,Web Developer
+3,0,2,1,1,1,1,3,2,3,3.64,Development,Software Engineer
+1,1,1,0,2,3,3,1,2,1,3.17,Development,Web Developer
+2,3,2,2,1,1,0,2,1,1,3.39,Database,Database Administrator
+1,3,3,1,0,2,3,2,1,2,3.94,Cloud,Cloud Engineer
+3,3,1,3,1,2,1,2,1,3,3.67,Development,Software Engineer
+1,0,2,2,0,0,2,2,1,3,3.64,Cloud,DevOps Engineer
+1,0,0,1,3,3,1,2,2,2,2.61,Development,Web Developer
+2,2,1,0,1,0,2,3,3,2,3.52,Security,Cyber Security Analyst
+1,3,3,1,2,0,1,1,3,3,3.78,Database,Database Administrator
+3,1,3,3,0,3,2,3,1,2,3.88,AI,AI Engineer
+1,3,1,3,0,1,3,2,2,2,3.88,Database,Database Administrator
+2,2,3,1,2,2,1,2,3,2,3.24,Development,Software Engineer
+1,2,3,1,1,0,2,2,1,3,3.58,Cloud,Cloud Engineer
+2,3,3,1,3,0,0,1,2,3,2.72,Database,Database Administrator
+1,1,1,1,2,3,2,1,1,1,2.77,Development,Web Developer
+1,3,0,0,2,0,3,2,2,1,3.09,Database,Database Administrator
+1,3,1,3,2,2,3,1,3,2,2.76,Development,Web Developer
+1,0,2,1,1,2,3,2,2,2,3.23,Cloud,DevOps Engineer
+2,1,2,2,0,0,1,2,3,2,3.97,Data,Data Scientist
+2,0,2,3,1,0,2,3,1,1,2.69,AI,AI Engineer
+2,0,0,3,1,2,0,2,3,3,3.34,Development,Software Engineer
+3,1,3,3,3,2,2,2,2,1,3.71,Data,Data Scientist
+2,0,3,2,3,2,2,3,1,2,3.93,Cloud,Cloud Engineer
+2,3,3,3,2,2,1,3,3,3,3.39,Data,Data Scientist
+2,3,3,0,1,1,2,2,1,2,2.8,Security,Cyber Security Analyst
+2,3,0,3,2,1,2,2,3,2,2.96,Cloud,Cloud Engineer
+2,3,1,2,2,2,1,3,3,1,3.82,Development,Software Engineer
+1,3,1,0,0,3,1,3,3,1,3.44,Security,Cyber Security Analyst
+3,1,2,2,2,0,0,3,1,1,3.09,AI,AI Engineer
+2,1,2,3,2,1,1,2,2,1,2.93,AI,AI Engineer
+2,3,3,0,0,2,3,2,3,1,3.02,Database,Database Administrator
+3,2,2,3,2,0,2,3,2,1,3.59,Data,Data Scientist
+3,2,3,2,1,0,1,2,1,3,3.37,Data,Data Scientist
+1,2,0,1,3,2,3,1,2,3,3.88,Database,Database Administrator
+2,3,3,2,2,1,1,2,3,2,4.0,Development,Software Engineer
+1,3,2,0,2,3,2,2,3,3,3.66,Security,Cyber Security Analyst
+2,3,1,3,1,0,0,2,1,3,3.36,AI,AI Engineer
+2,2,3,2,1,3,3,3,1,1,2.95,Cloud,Cloud Engineer
+2,0,1,0,2,1,1,2,2,2,3.17,Development,Software Engineer
+1,3,2,2,2,1,2,2,1,2,3.7,Database,Database Administrator
+2,3,2,2,3,3,2,3,1,1,3.68,Cloud,Cloud Engineer
+2,0,3,0,3,2,3,3,2,1,3.11,Cloud,Cloud Engineer
+2,3,2,0,1,1,3,3,2,3,2.73,Development,Software Engineer
+2,0,2,3,2,3,0,2,1,1,3.69,AI,AI Engineer
+2,0,1,2,0,1,1,3,3,1,3.64,AI,AI Engineer
+2,3,0,3,1,1,3,3,3,1,3.8,Cloud,Cloud Engineer
+2,3,2,2,1,1,3,2,3,3,3.17,Data,Data Scientist
+1,3,1,3,1,1,3,2,1,1,3.87,Cloud,Cloud Engineer
+2,2,2,0,1,1,2,2,3,1,3.28,Development,Software Engineer
+2,0,1,2,1,3,2,3,2,3,2.51,AI,AI Engineer
+1,0,2,0,1,0,2,2,1,2,2.58,Cloud,Cloud Engineer
+1,2,0,2,3,3,2,0,2,3,3.17,Development,Web Developer
+2,2,3,2,1,1,1,2,3,2,3.46,Data,Data Scientist
+3,1,1,2,2,2,3,2,2,1,3.81,Development,Software Engineer
+1,1,2,1,3,3,1,1,1,3,2.58,Development,Web Developer
+1,3,0,2,2,0,0,1,1,1,3.45,Database,Database Administrator
+1,2,0,0,2,2,1,3,1,2,2.79,Security,Cyber Security Analyst
+2,2,3,3,1,0,2,2,1,2,3.66,Cloud,DevOps Engineer
+2,3,2,3,1,3,2,2,3,2,3.97,Database,Database Administrator
+2,3,3,0,1,0,2,3,2,2,2.83,Security,Cyber Security Analyst
+2,3,0,0,3,0,2,2,2,3,3.04,Cloud,DevOps Engineer
+2,0,3,3,0,1,0,2,3,1,3.66,AI,AI Engineer
+2,2,0,1,0,2,2,3,3,3,2.85,Cloud,DevOps Engineer
+1,0,2,0,1,2,1,2,2,1,3.44,Security,Cyber Security Analyst
+1,0,0,1,2,2,1,3,2,1,2.73,Development,Web Developer
+2,2,1,1,2,2,3,3,1,2,3.55,Cloud,DevOps Engineer
+2,2,0,2,2,1,2,3,1,3,3.65,Development,Software Engineer
+1,3,3,3,2,3,3,2,3,2,3.25,Cloud,Cloud Engineer
+2,0,3,1,3,1,1,3,1,2,2.52,Security,Cyber Security Analyst
+2,3,2,2,3,0,2,3,3,2,2.83,Cloud,Cloud Engineer
+2,2,1,2,2,2,0,3,1,3,3.47,Development,Web Developer
+2,3,3,2,3,3,1,2,1,2,3.81,Development,Web Developer
+2,1,2,3,2,2,2,0,2,3,3.6,Development,Web Developer
+3,3,3,1,1,1,2,2,2,3,2.95,Development,Software Engineer
+2,3,3,3,2,2,1,2,2,1,3.78,Development,Software Engineer
+1,3,3,0,3,0,2,3,1,2,3.31,Cloud,Cloud Engineer
+2,3,2,2,1,1,2,3,2,3,3.67,Cloud,Cloud Engineer
+1,2,3,2,0,1,3,3,2,1,3.82,Cloud,DevOps Engineer
+2,1,1,2,3,0,1,3,1,3,2.67,AI,AI Engineer
+1,0,0,0,2,2,3,0,3,3,3.46,Development,Web Developer
+1,1,0,1,0,3,2,2,1,2,3.58,Cloud,Cloud Engineer
+2,1,1,0,2,2,3,3,1,1,3.67,Cloud,Cloud Engineer
+1,3,3,2,3,3,0,0,3,3,2.56,Development,Web Developer
+3,0,0,0,2,1,0,3,2,3,2.81,Development,Software Engineer
+1,2,1,3,2,3,3,2,1,2,3.66,Database,Database Administrator
+3,1,2,3,1,0,1,3,1,2,3.68,Data,Data Scientist
+2,1,3,3,3,2,2,2,3,3,2.79,Data,Data Scientist
+2,3,3,3,2,2,1,2,3,2,3.19,Data,Data Scientist
+2,2,3,1,3,3,3,3,3,2,3.4,Development,Web Developer
+1,1,3,3,1,1,1,2,2,1,4.0,Security,Cyber Security Analyst
+3,0,2,3,1,2,1,2,2,1,3.7,AI,AI Engineer
+3,3,2,3,1,3,1,2,1,1,3.16,Data,Data Scientist
+1,1,3,3,2,3,1,2,2,2,3.93,Security,Cyber Security Analyst
+2,1,1,3,3,0,3,2,1,3,3.19,Cloud,DevOps Engineer
+2,0,2,0,3,1,3,3,2,2,3.17,Cloud,Cloud Engineer
+3,0,3,2,3,0,1,2,1,3,2.54,AI,AI Engineer
+3,1,3,2,1,0,1,3,3,3,3.2,Data,Data Scientist
+1,0,0,3,0,1,3,3,1,1,3.3,Cloud,Cloud Engineer
+2,2,3,1,0,0,2,2,3,3,2.77,Cloud,Cloud Engineer
+2,0,1,2,2,2,1,2,1,3,3.24,Development,Software Engineer
+3,3,3,3,2,1,2,3,3,1,2.98,AI,AI Engineer
+3,2,3,2,3,1,1,2,3,2,3.72,AI,AI Engineer
+2,2,3,1,1,3,1,2,1,1,2.97,Security,Cyber Security Analyst
+3,1,3,0,1,2,0,2,3,3,2.5,Development,Software Engineer
+1,2,3,0,2,1,3,2,3,3,2.52,Database,Database Administrator
+2,1,2,2,2,1,2,3,3,1,3.3,AI,AI Engineer
+1,1,2,3,2,2,1,3,2,1,3.91,Security,Cyber Security Analyst
+1,0,0,1,2,2,1,3,3,2,3.47,Security,Cyber Security Analyst
+2,0,0,3,1,2,0,3,2,2,3.16,Development,Software Engineer
+1,3,3,3,3,3,0,2,1,3,3.75,Development,Web Developer
+2,2,1,2,0,2,3,2,2,2,2.85,AI,AI Engineer
+1,0,0,0,3,3,3,3,2,3,3.91,Cloud,Cloud Engineer
+1,3,0,2,1,3,1,2,2,1,3.32,Database,Database Administrator
+1,1,2,0,2,1,2,3,3,3,2.55,Security,Cyber Security Analyst
+2,2,3,2,2,1,2,3,2,2,3.95,Cloud,DevOps Engineer
+2,1,3,2,3,1,3,2,1,1,2.7,Data,Data Scientist
+3,1,2,2,3,0,3,2,2,3,3.21,Data,Data Scientist
+1,2,0,2,2,2,3,2,1,2,3.16,Database,Database Administrator
+3,3,3,3,1,2,0,3,3,1,3.0,AI,AI Engineer
+2,3,2,3,2,3,0,2,1,1,3.8,Development,Web Developer
+3,2,2,2,1,1,2,3,1,1,3.87,Data,Data Scientist
+1,0,3,2,2,3,0,0,1,3,3.14,Development,Web Developer
+3,2,2,3,1,2,0,3,3,1,2.86,Data,Data Scientist
+2,0,2,1,1,2,0,3,1,2,3.04,Development,Software Engineer
+2,2,0,0,1,1,2,2,3,2,3.44,Security,Cyber Security Analyst
+2,0,2,3,1,2,3,2,2,1,2.91,Cloud,DevOps Engineer
+2,0,2,0,1,2,2,3,1,2,3.48,Development,Software Engineer
+2,3,3,2,2,3,3,3,1,2,2.64,Cloud,Cloud Engineer
+2,3,3,2,2,3,2,3,3,1,2.98,Cloud,Cloud Engineer
+1,1,1,0,0,0,3,3,3,3,2.63,Cloud,Cloud Engineer
+2,0,0,3,3,3,3,2,3,2,3.67,Cloud,Cloud Engineer
+2,3,1,0,1,2,2,3,3,3,3.99,Security,Cyber Security Analyst
+2,2,3,1,0,2,2,3,2,3,2.65,Cloud,DevOps Engineer
+2,2,1,1,1,3,3,2,1,3,2.84,Cloud,Cloud Engineer
+3,1,2,2,2,1,0,2,2,1,2.81,Data,Data Scientist
+3,1,3,2,1,0,2,2,1,1,3.36,Data,Data Scientist
+3,1,3,2,2,0,0,3,2,3,3.85,AI,AI Engineer
+2,3,2,2,0,3,1,3,3,3,2.9,Data,Data Scientist
+3,2,0,0,2,2,2,2,1,2,3.68,Development,Software Engineer
+3,2,2,3,0,1,1,2,3,2,2.9,Data,Data Scientist
+2,3,3,2,3,2,3,2,3,1,2.53,Development,Web Developer
+3,2,2,2,1,0,1,3,3,2,2.53,AI,AI Engineer
+3,3,1,1,2,1,0,2,1,1,2.69,Development,Software Engineer
+1,1,2,3,0,1,2,3,3,2,2.57,Security,Cyber Security Analyst
+3,0,3,3,3,3,1,2,1,1,3.38,AI,AI Engineer
+2,1,1,3,0,0,2,2,1,1,3.7,Security,Cyber Security Analyst
+2,0,1,3,0,1,1,3,1,1,3.33,Security,Cyber Security Analyst
+2,3,2,2,2,2,0,1,3,2,3.92,Database,Database Administrator
+2,2,3,1,0,1,3,2,2,2,2.52,Database,Database Administrator
+3,1,1,2,1,1,3,2,2,1,3.01,Development,Software Engineer
+2,0,0,3,2,2,2,2,1,1,3.99,Development,Web Developer
+3,1,3,3,1,1,2,2,3,3,3.77,Data,Data Scientist
+3,3,2,0,2,2,3,3,3,1,3.44,Development,Software Engineer
+3,3,2,2,1,1,2,3,3,3,3.91,Data,Data Scientist
+1,2,1,3,3,1,2,2,1,3,3.03,Cloud,DevOps Engineer
+3,2,3,2,1,3,3,3,1,2,3.42,AI,AI Engineer
+2,1,3,0,3,3,2,1,2,2,3.11,Development,Web Developer
+2,1,2,2,0,1,2,2,2,1,2.87,Security,Cyber Security Analyst
+2,3,3,2,3,3,3,2,2,1,3.92,Database,Database Administrator
+1,2,2,1,3,1,2,2,3,1,2.55,Cloud,Cloud Engineer
+2,2,2,2,2,3,3,3,2,1,3.69,AI,AI Engineer
+3,2,3,2,2,3,0,2,2,1,2.56,AI,AI Engineer
+1,0,1,2,1,2,1,3,3,2,2.58,Security,Cyber Security Analyst
+3,2,2,3,3,2,3,2,2,1,3.7,Data,Data Scientist
+1,2,1,3,3,2,0,1,2,2,3.5,Database,Database Administrator
+1,3,2,2,0,0,2,2,2,2,3.75,Security,Cyber Security Analyst
+1,1,3,1,2,3,2,3,3,1,3.26,Cloud,Cloud Engineer
+1,3,0,1,2,2,2,3,1,1,3.18,Cloud,DevOps Engineer
+2,0,1,3,1,0,2,3,3,2,3.18,AI,AI Engineer
+2,3,0,3,0,3,2,2,1,3,3.55,Cloud,DevOps Engineer
+2,3,0,1,3,2,1,0,3,1,3.6,Development,Web Developer
+1,3,1,3,3,2,2,0,2,2,3.23,Development,Web Developer
+2,3,0,2,1,2,2,3,1,2,3.25,Development,Software Engineer
+3,1,2,3,2,1,2,3,1,3,3.46,AI,AI Engineer
+2,2,3,3,1,3,1,2,2,1,3.21,Security,Cyber Security Analyst
+3,0,1,3,2,1,2,2,2,1,3.23,AI,AI Engineer
+2,3,3,3,3,3,2,2,1,1,2.99,AI,AI Engineer
+2,1,3,0,0,2,3,3,1,2,3.57,Cloud,Cloud Engineer
+2,0,2,1,1,1,3,2,2,1,3.61,Cloud,DevOps Engineer
+2,1,2,2,0,3,0,3,2,2,2.56,AI,AI Engineer
+2,2,3,0,3,2,2,3,1,3,2.93,Cloud,DevOps Engineer
+2,2,2,3,0,0,3,3,3,2,3.36,Cloud,Cloud Engineer
+1,3,3,2,2,1,3,2,3,3,2.61,Database,Database Administrator
+3,2,3,2,0,3,0,2,1,1,3.44,AI,AI Engineer
+1,2,3,0,0,0,2,3,2,3,3.76,Security,Cyber Security Analyst
+1,2,0,0,2,3,2,1,3,3,3.7,Database,Database Administrator
+2,3,1,1,2,2,1,1,1,3,3.54,Development,Web Developer
+2,2,3,3,2,2,2,2,2,2,3.27,Database,Database Administrator
+1,3,2,1,0,2,0,2,3,3,3.97,Database,Database Administrator
+1,0,1,2,0,0,2,2,3,1,3.41,Cloud,Cloud Engineer
+1,2,1,2,1,2,1,2,2,1,2.91,Security,Cyber Security Analyst
+3,2,2,3,3,2,2,2,2,1,3.52,Data,Data Scientist
+1,2,3,1,2,3,1,3,2,1,3.25,Development,Web Developer
+1,2,0,3,2,1,2,2,1,1,3.52,Cloud,DevOps Engineer
+1,1,2,0,0,1,3,2,2,1,3.73,Cloud,DevOps Engineer
+2,2,3,3,1,2,3,3,3,2,3.62,Cloud,DevOps Engineer
+1,1,2,1,0,0,2,3,2,2,2.95,Cloud,DevOps Engineer
+1,0,1,1,2,1,1,2,2,3,2.94,Security,Cyber Security Analyst
+2,1,3,2,1,0,0,3,1,2,3.84,Data,Data Scientist
+3,3,3,3,1,2,1,2,3,2,2.87,Development,Software Engineer
+2,2,1,3,2,2,3,2,1,3,3.79,Cloud,Cloud Engineer
+1,0,3,0,1,1,2,3,3,1,2.54,Cloud,Cloud Engineer
+3,0,1,3,1,3,1,2,1,3,3.03,AI,AI Engineer
+2,2,3,3,1,2,1,3,2,1,3.01,Development,Software Engineer
+2,1,0,3,3,3,2,2,1,3,2.95,Cloud,Cloud Engineer
+2,3,2,3,2,2,3,2,3,3,2.55,Data,Data Scientist
+1,3,3,1,0,2,3,1,1,1,3.87,Database,Database Administrator
+1,0,1,2,1,0,3,3,2,1,3.23,Cloud,Cloud Engineer
+1,0,2,2,3,2,3,0,1,1,2.63,Development,Web Developer
+1,1,2,0,3,2,1,2,1,1,3.0,Security,Cyber Security Analyst
+2,0,0,2,1,2,3,2,2,1,3.8,Development,Software Engineer
+1,3,0,2,2,0,2,2,1,3,3.24,Security,Cyber Security Analyst
+1,2,2,3,2,0,0,1,2,2,2.91,Database,Database Administrator
+1,2,3,0,3,3,2,2,1,1,3.36,Cloud,DevOps Engineer
+2,2,1,3,1,0,1,3,2,2,2.76,AI,AI Engineer
+1,2,1,2,3,3,0,2,3,1,2.66,Development,Web Developer
+2,3,3,0,2,2,3,0,2,3,3.06,Development,Web Developer
+2,0,0,1,3,2,1,2,2,1,2.73,Development,Web Developer
+1,2,2,3,0,1,2,3,2,2,3.05,Cloud,Cloud Engineer
+2,0,3,3,0,1,2,2,3,1,3.22,AI,AI Engineer
+3,1,3,3,3,1,0,3,2,1,3.25,Data,Data Scientist
+2,0,2,3,3,1,3,2,2,1,2.84,AI,AI Engineer
+2,2,0,1,3,0,3,1,1,1,3.51,Database,Database Administrator
+3,1,3,3,2,0,0,2,1,1,3.96,Data,Data Scientist
+2,1,2,3,3,2,1,3,3,1,3.45,Security,Cyber Security Analyst
+3,0,0,2,1,1,1,3,1,2,2.7,Development,Software Engineer
+3,1,1,3,3,1,3,3,2,3,3.34,AI,AI Engineer
+1,1,1,0,1,1,3,2,1,2,3.69,Cloud,DevOps Engineer
+2,0,0,1,3,2,3,2,1,2,3.37,Development,Web Developer
+2,0,1,0,2,2,2,2,1,2,2.57,Development,Software Engineer
+1,0,3,3,0,3,3,3,2,2,3.7,Cloud,Cloud Engineer
+1,2,0,2,0,0,2,1,2,2,3.25,Database,Database Administrator
+2,0,3,3,3,1,2,2,1,2,3.07,Security,Cyber Security Analyst
+2,2,1,3,1,1,3,3,2,2,3.2,AI,AI Engineer
+2,0,3,1,1,2,3,3,1,1,3.0,Development,Software Engineer
+1,2,0,1,2,0,0,2,1,2,3.6,Database,Database Administrator
+2,2,1,3,2,2,3,2,2,1,3.22,Cloud,Cloud Engineer
+2,3,0,1,3,2,2,3,3,2,2.59,Security,Cyber Security Analyst
+2,1,0,0,2,3,1,2,1,3,3.61,Security,Cyber Security Analyst
+2,3,1,3,0,3,3,1,1,2,3.95,Database,Database Administrator
+1,2,2,2,3,0,2,1,3,2,2.54,Database,Database Administrator
+2,3,1,2,1,1,3,2,2,1,3.16,Cloud,Cloud Engineer
+3,2,1,3,1,3,3,3,3,2,3.02,AI,AI Engineer
+2,1,2,3,1,0,3,3,2,3,3.83,Cloud,Cloud Engineer
+3,3,2,3,3,3,0,3,2,1,2.98,Data,Data Scientist
+2,1,3,2,1,2,2,3,2,2,3.09,Cloud,DevOps Engineer
+2,1,2,1,0,1,1,2,2,1,2.61,Security,Cyber Security Analyst
+1,2,3,3,0,0,3,3,3,3,3.47,Cloud,Cloud Engineer
+1,2,1,2,0,3,2,3,1,2,3.88,Cloud,Cloud Engineer
+1,3,0,2,3,3,3,2,3,2,3.9,Database,Database Administrator
+2,2,2,2,2,3,2,2,3,1,3.41,Data,Data Scientist
+2,1,3,1,0,1,2,2,1,3,2.7,Security,Cyber Security Analyst
+2,1,0,2,2,1,1,3,2,1,2.53,Development,Software Engineer
+3,1,2,3,0,2,2,2,2,1,3.86,AI,AI Engineer
+3,2,2,0,2,2,3,2,2,2,2.58,Development,Software Engineer
+3,1,3,3,3,3,1,2,1,1,3.12,Data,Data Scientist
+3,3,3,3,2,1,3,2,3,1,2.64,Data,Data Scientist
+2,0,1,3,0,1,2,3,2,1,3.67,AI,AI Engineer
+2,2,0,1,3,2,1,0,3,2,3.82,Development,Web Developer
+2,2,2,1,0,0,1,2,3,1,3.96,Database,Database Administrator
+2,1,3,2,2,0,2,2,1,2,2.64,AI,AI Engineer
+3,2,3,2,1,3,1,3,1,3,3.73,Data,Data Scientist
+3,2,3,3,2,2,3,2,3,3,3.74,Data,Data Scientist
+1,0,1,2,3,3,3,3,3,3,2.86,Cloud,Cloud Engineer
+2,3,0,3,2,3,1,0,1,2,3.51,Development,Web Developer
+2,0,3,1,2,3,2,3,2,3,3.57,Security,Cyber Security Analyst
+3,1,2,2,1,2,0,2,1,2,2.78,Data,Data Scientist
+2,0,0,0,1,2,2,2,1,2,3.11,Development,Software Engineer
+2,0,1,3,2,1,2,2,1,3,2.63,Cloud,Cloud Engineer
+2,0,3,2,1,2,1,2,2,1,3.51,Development,Software Engineer
+2,3,3,1,0,1,3,2,3,2,3.72,Cloud,Cloud Engineer
+3,2,2,2,1,3,1,3,1,3,2.65,AI,AI Engineer
+1,3,0,0,3,1,3,1,2,2,2.69,Database,Database Administrator
+1,0,1,0,3,2,1,2,2,3,3.65,Security,Cyber Security Analyst
+2,3,2,3,3,1,1,3,2,2,2.53,Security,Cyber Security Analyst
+2,0,2,2,2,0,3,2,1,1,3.68,AI,AI Engineer
+1,3,3,2,2,3,3,3,2,1,2.74,Development,Web Developer
+1,0,3,0,0,0,2,2,3,3,3.09,Security,Cyber Security Analyst
+2,0,0,0,0,3,3,3,2,3,2.8,Cloud,DevOps Engineer
+2,1,2,0,1,1,1,2,1,2,2.55,Development,Software Engineer
+2,1,3,2,1,1,0,2,1,1,2.51,AI,AI Engineer
+2,2,2,3,0,1,0,2,1,1,4.0,Data,Data Scientist
+1,1,1,3,1,0,2,3,1,2,3.69,Security,Cyber Security Analyst
+1,1,2,1,2,0,2,3,2,1,3.87,Cloud,DevOps Engineer
+3,3,3,2,2,0,0,2,2,2,2.69,AI,AI Engineer
+2,3,1,1,2,2,3,3,2,3,3.17,Development,Software Engineer
+1,1,1,0,0,1,3,3,1,1,3.24,Cloud,Cloud Engineer
+2,1,3,2,0,0,1,3,3,1,3.2,Data,Data Scientist
+2,0,2,3,2,3,2,0,1,3,3.29,Development,Web Developer
+1,0,0,0,0,3,3,3,3,3,3.23,Cloud,Cloud Engineer
+1,3,2,1,0,3,1,3,2,2,3.2,Security,Cyber Security Analyst
+2,2,2,2,1,0,1,3,1,2,3.14,Security,Cyber Security Analyst
+3,3,2,2,3,3,2,2,1,2,2.88,Data,Data Scientist
+1,1,3,3,0,0,1,2,3,1,2.94,Security,Cyber Security Analyst
+2,1,2,1,2,3,2,3,3,2,3.03,Security,Cyber Security Analyst
+1,2,1,3,2,2,0,2,3,3,3.31,Database,Database Administrator
+3,2,3,3,2,1,1,3,3,3,2.59,AI,AI Engineer
+2,2,0,1,2,3,3,2,1,2,2.98,Cloud,Cloud Engineer
+2,1,2,2,1,0,3,2,3,1,2.95,AI,AI Engineer
+2,2,1,2,1,1,0,3,2,3,2.8,Development,Software Engineer
+1,2,1,3,3,2,3,2,2,1,2.84,Development,Web Developer
+3,0,2,3,1,0,2,2,1,1,3.05,AI,AI Engineer
+2,0,0,2,1,2,3,3,1,1,2.56,Development,Software Engineer
+1,2,1,2,1,0,3,1,2,2,3.96,Database,Database Administrator
+2,1,3,3,2,3,3,2,3,2,3.71,Data,Data Scientist
+2,0,2,1,1,2,3,3,1,2,2.99,Cloud,Cloud Engineer
+1,1,1,1,1,3,3,2,3,3,3.96,Cloud,Cloud Engineer
+1,2,2,0,0,2,3,1,1,1,3.51,Database,Database Administrator
+2,1,0,1,0,0,3,3,3,1,3.58,Cloud,DevOps Engineer
+2,2,3,3,1,0,2,3,3,2,3.89,Security,Cyber Security Analyst
+2,1,3,3,0,2,2,2,1,3,3.97,Data,Data Scientist
+1,3,2,3,1,1,2,1,1,1,3.87,Database,Database Administrator
+3,1,2,2,1,3,0,3,2,1,3.41,AI,AI Engineer
+1,3,2,1,0,3,3,2,3,2,3.46,Cloud,Cloud Engineer
+1,2,1,2,3,1,2,2,1,1,3.2,Database,Database Administrator
+3,2,3,3,2,2,0,2,1,2,3.12,Data,Data Scientist
+2,2,1,0,1,0,2,2,2,1,3.52,Security,Cyber Security Analyst
+2,3,2,2,1,3,1,3,2,2,3.07,Security,Cyber Security Analyst
+2,0,3,2,2,2,2,2,1,2,3.9,Development,Software Engineer
+2,2,2,2,3,3,3,3,1,3,3.88,Data,Data Scientist
+2,2,1,3,2,1,2,3,3,3,3.83,Security,Cyber Security Analyst
+1,0,3,2,3,3,2,3,2,3,3.42,Cloud,DevOps Engineer
+1,3,1,2,3,2,2,2,2,1,3.74,Development,Web Developer
+2,3,3,3,2,3,3,1,3,3,3.28,Database,Database Administrator
+2,0,1,3,3,3,0,3,1,1,3.76,AI,AI Engineer
+2,1,3,0,2,1,1,3,1,2,3.79,Security,Cyber Security Analyst
+2,2,1,0,1,3,1,1,3,1,3.7,Database,Database Administrator
+2,1,3,1,0,0,3,3,1,3,3.35,Cloud,DevOps Engineer
+3,1,3,0,2,2,2,2,2,3,3.26,Development,Software Engineer
+2,0,2,3,0,0,2,3,1,1,3.12,Security,Cyber Security Analyst
+2,2,1,1,3,3,0,2,3,2,2.57,Development,Web Developer
+1,1,1,0,0,1,2,3,1,2,3.82,Cloud,DevOps Engineer
+2,3,1,1,0,3,1,2,1,1,3.27,Security,Cyber Security Analyst
+3,0,2,3,1,2,0,3,2,2,2.96,Development,Software Engineer
+1,2,1,1,0,1,3,3,2,1,3.78,Cloud,DevOps Engineer
+1,1,3,3,3,3,2,2,1,3,3.87,Cloud,Cloud Engineer
+2,3,3,1,0,1,3,2,3,2,3.65,Cloud,DevOps Engineer
+1,3,0,0,0,2,3,2,2,3,2.65,Database,Database Administrator
+3,3,3,3,2,3,2,3,3,2,3.42,AI,AI Engineer
+1,0,1,1,0,1,2,3,3,1,3.78,Security,Cyber Security Analyst
+2,1,3,2,3,2,1,2,3,2,3.25,Security,Cyber Security Analyst
+2,2,2,1,2,2,1,1,1,2,3.95,Development,Web Developer
+3,2,1,1,2,1,3,3,2,3,2.87,Development,Software Engineer
+1,3,3,0,0,1,3,2,2,3,3.64,Cloud,DevOps Engineer
+3,2,3,2,2,3,2,2,2,2,2.93,Data,Data Scientist
+2,2,1,3,2,3,2,2,1,3,3.29,Development,Web Developer
+1,0,0,3,1,1,2,3,2,2,3.94,Cloud,DevOps Engineer
+1,2,3,0,0,2,3,2,3,1,3.79,Database,Database Administrator
+3,1,3,3,3,2,0,2,1,2,2.74,Data,Data Scientist
+2,2,2,1,1,3,2,2,2,3,3.13,Database,Database Administrator
+3,0,0,2,1,1,3,2,2,1,3.31,Development,Software Engineer
+1,2,0,1,2,2,0,3,2,3,3.23,Development,Web Developer
+1,3,3,2,0,2,2,3,2,3,3.7,Cloud,Cloud Engineer
+1,0,2,3,0,0,2,3,3,1,2.69,Security,Cyber Security Analyst
+3,1,1,1,1,2,3,2,1,3,3.11,Development,Software Engineer
+2,2,2,0,3,0,3,3,2,2,3.81,Cloud,DevOps Engineer
+3,3,2,2,2,2,0,3,1,1,2.53,Data,Data Scientist
+2,1,1,3,2,1,2,3,2,1,2.67,Cloud,Cloud Engineer
+2,3,3,1,2,3,3,1,2,3,2.8,Development,Web Developer
+1,1,2,2,3,3,3,3,2,1,3.23,Cloud,DevOps Engineer
+2,2,1,3,2,2,3,2,1,1,3.98,Development,Software Engineer
+2,1,2,2,3,1,0,2,3,3,2.92,Data,Data Scientist
+1,2,2,3,0,3,3,1,1,1,2.55,Database,Database Administrator
+3,2,2,3,0,0,1,2,3,2,3.47,AI,AI Engineer
+2,2,1,3,2,1,3,3,2,1,3.69,Cloud,DevOps Engineer
+2,3,0,0,1,3,2,2,3,1,3.65,Cloud,Cloud Engineer
+1,2,3,2,1,0,2,2,2,1,3.67,Cloud,DevOps Engineer
+1,2,0,2,0,2,2,3,2,2,2.87,Cloud,Cloud Engineer
+1,0,3,1,3,3,0,0,3,2,3.02,Development,Web Developer
+2,1,2,2,3,1,2,2,2,2,2.8,Cloud,DevOps Engineer
+2,0,2,2,2,2,2,1,2,3,3.37,Development,Web Developer
+2,2,0,0,2,3,3,3,1,3,2.52,Development,Web Developer
+3,0,0,1,2,1,1,3,3,1,3.22,Development,Software Engineer
+2,2,3,0,0,1,2,2,2,2,3.78,Cloud,Cloud Engineer
+2,3,1,1,1,2,1,3,2,1,2.8,Development,Software Engineer
+1,0,1,0,2,1,2,3,3,2,2.66,Cloud,DevOps Engineer
+3,0,3,2,0,3,2,2,1,2,2.99,AI,AI Engineer
+2,0,2,0,3,0,3,3,3,3,2.59,Cloud,Cloud Engineer
+3,1,2,3,0,3,2,2,3,2,2.51,Data,Data Scientist
+1,0,3,3,2,1,1,2,3,3,3.53,Security,Cyber Security Analyst
+3,2,0,0,2,2,3,3,1,3,3.98,Development,Software Engineer
+3,3,3,0,2,1,0,2,2,2,3.67,Development,Software Engineer
+1,2,1,1,3,1,0,2,2,1,2.62,Database,Database Administrator
+2,1,2,2,1,1,1,2,1,2,2.91,AI,AI Engineer
+2,2,2,3,0,0,3,3,2,3,3.76,AI,AI Engineer
+1,2,0,0,3,1,3,2,3,2,3.46,Database,Database Administrator
+1,0,0,2,3,2,1,2,3,2,3.9,Development,Web Developer
+1,2,2,3,0,0,0,1,2,2,2.77,Database,Database Administrator
+3,2,3,2,1,1,1,3,3,2,3.96,AI,AI Engineer
+1,2,1,2,1,2,2,1,3,3,2.77,Database,Database Administrator
+1,1,3,0,0,2,1,2,1,2,3.7,Security,Cyber Security Analyst
+2,2,3,3,3,3,2,3,1,1,3.8,Cloud,Cloud Engineer
+2,0,1,2,2,3,2,2,1,1,2.82,Development,Web Developer
+1,2,3,1,1,1,1,2,3,1,3.98,Database,Database Administrator
+2,2,3,3,2,3,3,2,2,2,3.4,Data,Data Scientist
+3,0,3,3,1,1,1,2,1,3,3.76,Development,Software Engineer
+2,0,0,0,1,1,1,2,3,3,3.81,Security,Cyber Security Analyst
+3,2,2,2,0,2,0,2,2,1,2.55,Data,Data Scientist
+3,3,1,2,1,1,3,3,3,3,3.31,AI,AI Engineer
+2,3,0,1,2,0,1,2,3,1,2.67,Security,Cyber Security Analyst
+3,3,3,2,2,1,0,3,1,1,2.98,Data,Data Scientist
+2,3,2,0,2,1,3,2,1,3,3.9,Development,Software Engineer
+3,2,2,2,3,2,0,2,2,1,2.7,AI,AI Engineer
+2,3,3,2,0,3,1,2,2,3,3.55,Security,Cyber Security Analyst
+3,1,3,3,1,3,2,3,1,2,3.51,Data,Data Scientist
+1,2,1,1,3,0,3,3,2,3,2.97,Cloud,Cloud Engineer
+2,3,1,3,2,1,3,3,1,3,3.48,Development,Software Engineer
+1,2,0,3,0,1,3,3,3,1,3.33,Cloud,Cloud Engineer
+2,1,3,2,1,0,2,2,3,3,3.0,AI,AI Engineer
+2,3,3,2,0,2,1,3,2,3,3.56,Data,Data Scientist
+2,2,1,2,3,1,2,2,1,2,3.13,Database,Database Administrator
+1,1,2,0,2,0,2,3,1,1,3.69,Security,Cyber Security Analyst
+2,1,0,2,0,3,1,3,3,1,3.98,Security,Cyber Security Analyst
+2,3,2,3,1,2,2,2,2,1,3.13,Development,Software Engineer
+3,0,1,2,1,0,1,3,1,1,3.7,AI,AI Engineer
+2,0,2,2,2,2,2,2,2,2,3.62,Development,Software Engineer
+3,1,1,2,3,3,1,2,3,2,3.22,AI,AI Engineer
+1,0,3,1,1,2,3,2,1,1,3.31,Cloud,DevOps Engineer
+2,2,0,2,0,3,3,2,1,2,3.5,Cloud,DevOps Engineer
+1,2,1,2,2,0,2,3,2,2,3.07,Cloud,DevOps Engineer
+2,2,0,2,3,3,3,1,1,1,3.37,Development,Web Developer
+3,2,3,2,2,0,3,3,3,1,3.64,Data,Data Scientist
+1,2,3,1,2,0,2,2,2,2,3.07,Cloud,Cloud Engineer
+1,3,0,2,3,3,3,3,2,2,3.44,Cloud,DevOps Engineer
+1,3,1,2,2,0,3,2,2,3,3.48,Cloud,DevOps Engineer
+2,1,2,2,0,0,3,3,1,3,3.99,Cloud,DevOps Engineer
+3,0,2,3,2,1,1,3,1,1,3.45,Development,Software Engineer
+3,2,3,2,3,2,1,2,1,3,3.61,AI,AI Engineer
+1,2,1,2,3,0,2,2,2,2,3.24,Cloud,Cloud Engineer
+2,0,2,3,0,3,2,3,2,1,3.89,Security,Cyber Security Analyst
+2,0,2,2,0,3,0,3,3,3,2.65,AI,AI Engineer
+1,2,0,3,3,3,3,2,1,1,2.78,Cloud,DevOps Engineer
+2,3,2,3,2,2,1,3,2,2,2.59,Data,Data Scientist
+2,3,3,2,0,1,1,1,1,3,2.76,Database,Database Administrator
+3,1,0,1,2,1,1,3,3,1,2.57,Development,Software Engineer
+2,0,2,1,3,3,3,3,2,3,3.04,Development,Web Developer
+2,2,3,0,1,0,3,2,1,2,2.77,Database,Database Administrator
+3,1,2,3,3,0,3,3,1,3,3.42,Data,Data Scientist
+3,0,0,1,2,2,2,2,2,3,3.85,Development,Software Engineer
+3,2,3,0,2,2,3,2,1,3,3.52,Development,Software Engineer
+2,3,1,0,2,3,2,2,1,2,3.92,Cloud,DevOps Engineer
+1,2,1,0,3,3,2,2,2,3,3.86,Cloud,Cloud Engineer
+2,2,2,1,1,0,3,2,3,3,3.11,Cloud,Cloud Engineer
+3,1,0,2,1,1,0,2,1,2,2.92,Development,Software Engineer
+1,1,2,2,0,1,3,2,3,3,2.99,Cloud,Cloud Engineer
+1,0,3,3,2,0,2,2,1,2,2.94,Security,Cyber Security Analyst
+2,1,1,2,0,3,2,3,1,1,3.82,Security,Cyber Security Analyst
+2,3,2,3,3,3,3,3,3,3,3.63,Development,Web Developer
+1,3,0,1,0,3,2,2,2,1,2.91,Cloud,Cloud Engineer
+3,3,2,3,0,0,3,3,1,2,3.89,AI,AI Engineer
+2,0,3,1,3,3,0,1,1,1,3.7,Development,Web Developer
+2,0,3,2,3,1,1,3,1,1,3.15,Security,Cyber Security Analyst
+2,3,3,1,3,2,2,3,1,3,3.37,Cloud,Cloud Engineer
+2,3,2,2,0,1,2,2,1,3,3.13,Data,Data Scientist
+2,3,1,2,2,3,2,2,3,1,3.39,Cloud,DevOps Engineer
+2,1,0,1,0,3,2,2,2,1,3.78,Cloud,DevOps Engineer
+2,3,2,2,1,2,1,3,3,3,3.0,AI,AI Engineer
+3,0,2,2,2,1,2,3,1,1,3.67,AI,AI Engineer
+2,2,0,1,2,3,3,2,1,2,3.05,Cloud,DevOps Engineer
+2,3,2,0,3,1,2,3,2,1,2.69,Cloud,DevOps Engineer
+2,1,3,1,1,1,0,2,1,3,2.87,Development,Software Engineer
+3,2,2,2,3,2,3,3,1,1,3.6,AI,AI Engineer
+1,2,1,3,1,3,2,3,1,1,3.7,Cloud,DevOps Engineer
+3,1,3,2,1,0,1,2,2,3,3.62,Data,Data Scientist
+2,3,0,2,1,1,0,3,1,1,3.21,Development,Software Engineer
+2,0,0,1,1,1,3,2,1,3,2.68,Development,Software Engineer
+2,2,1,3,2,2,2,3,1,2,3.48,Security,Cyber Security Analyst
+1,2,1,2,0,0,2,3,1,3,2.9,Security,Cyber Security Analyst
+1,1,1,1,0,1,1,2,2,1,3.46,Security,Cyber Security Analyst
+1,1,2,3,0,2,3,3,3,3,3.45,Cloud,Cloud Engineer
+2,1,1,3,3,3,2,3,1,2,3.16,Cloud,DevOps Engineer
+2,3,1,2,2,3,2,3,1,2,3.79,AI,AI Engineer
+2,0,2,0,3,0,3,3,1,2,2.84,Cloud,DevOps Engineer
+1,2,1,1,0,1,2,2,1,2,2.67,Database,Database Administrator
+1,3,2,2,3,1,2,1,1,1,3.83,Database,Database Administrator
+1,1,1,2,2,3,2,3,3,3,3.58,Security,Cyber Security Analyst
+1,1,0,1,3,2,2,3,1,3,3.04,Security,Cyber Security Analyst
+1,2,1,0,2,2,2,2,2,2,2.58,Cloud,Cloud Engineer
+1,1,0,2,2,1,3,2,3,1,2.84,Cloud,DevOps Engineer
+1,2,2,3,2,2,1,2,2,3,3.14,Security,Cyber Security Analyst
+2,1,3,2,0,0,3,2,1,1,2.94,Cloud,Cloud Engineer
+1,0,0,2,3,2,3,2,2,3,3.27,Cloud,DevOps Engineer
+2,3,2,3,2,2,1,1,3,1,2.68,Development,Web Developer
+2,3,0,3,2,1,1,2,3,3,2.56,Security,Cyber Security Analyst
+3,3,2,1,2,2,0,2,2,3,2.7,Development,Software Engineer
+2,1,3,2,3,1,1,2,2,2,2.75,Data,Data Scientist
+3,0,3,2,2,2,3,2,2,3,2.56,Development,Software Engineer
+2,2,1,3,3,1,3,2,1,3,3.43,Cloud,DevOps Engineer
+2,3,2,0,2,0,3,3,1,2,3.55,Cloud,Cloud Engineer
+3,1,3,2,3,0,2,3,2,2,2.77,AI,AI Engineer
+3,1,1,2,2,2,2,3,2,3,3.97,Development,Software Engineer
+2,1,2,3,3,1,0,2,3,2,2.5,Data,Data Scientist
+2,3,1,0,0,2,3,2,1,3,3.44,Cloud,Cloud Engineer
+1,3,0,0,2,0,3,2,2,3,3.55,Cloud,DevOps Engineer
+2,2,0,1,3,3,3,0,3,2,2.69,Development,Web Developer
+2,2,0,3,2,3,2,3,2,3,2.79,Cloud,Cloud Engineer
+2,3,0,0,2,1,0,3,2,2,3.23,Development,Software Engineer
+1,3,2,1,0,2,1,3,2,3,3.4,Security,Cyber Security Analyst
+3,0,0,0,1,1,3,3,1,2,2.85,Development,Software Engineer
+2,3,1,2,2,1,2,2,3,1,3.29,Security,Cyber Security Analyst
+3,3,3,2,1,2,2,2,1,2,2.87,AI,AI Engineer
+1,2,2,1,0,0,0,1,3,1,3.42,Database,Database Administrator
+1,3,2,2,3,2,0,2,2,1,3.0,Development,Web Developer
+2,2,0,3,0,0,2,2,2,1,2.7,Cloud,Cloud Engineer
+2,3,2,2,1,1,1,3,3,2,3.56,Development,Software Engineer
+1,0,1,2,1,3,3,3,3,3,2.57,Cloud,Cloud Engineer
+1,2,2,2,2,3,3,2,3,2,2.78,Development,Web Developer
+2,0,3,2,3,3,1,3,2,1,2.67,Security,Cyber Security Analyst
+2,2,3,3,3,3,0,2,2,3,3.47,Database,Database Administrator
+3,2,3,2,1,3,2,2,2,1,3.64,Data,Data Scientist
+2,2,2,2,1,0,2,3,1,3,3.81,Data,Data Scientist
+1,0,0,3,1,2,2,3,1,2,3.28,Security,Cyber Security Analyst
+2,2,3,3,2,2,3,2,3,3,2.53,Cloud,DevOps Engineer
+2,0,1,1,2,2,2,3,2,3,2.63,Cloud,DevOps Engineer
+1,3,1,1,1,0,2,2,1,1,2.67,Database,Database Administrator
+1,1,2,1,2,3,2,3,2,2,3.2,Security,Cyber Security Analyst
+2,1,3,3,0,2,1,3,2,2,3.25,Security,Cyber Security Analyst
+1,3,3,0,3,3,3,2,3,2,2.86,Development,Web Developer
+2,0,0,1,1,0,3,2,3,2,2.8,Cloud,Cloud Engineer
+2,1,1,0,1,2,1,3,3,1,2.75,Development,Software Engineer
+2,2,3,2,0,3,2,2,2,3,3.74,Data,Data Scientist
+2,0,2,2,1,2,1,2,3,1,3.14,Development,Software Engineer
+2,3,0,0,3,0,1,2,3,3,3.25,Security,Cyber Security Analyst
+1,2,3,2,3,2,1,3,3,2,3.39,Development,Web Developer
+2,0,2,3,1,3,2,3,2,3,2.93,Cloud,Cloud Engineer
+2,2,3,3,2,1,1,3,2,1,3.19,Data,Data Scientist
+3,2,3,3,0,3,3,3,1,3,2.79,AI,AI Engineer
+3,2,2,3,0,0,1,2,3,2,2.96,Data,Data Scientist
+1,1,2,0,2,1,2,2,3,3,3.49,Cloud,DevOps Engineer
+2,3,3,3,2,0,0,2,2,3,3.87,Data,Data Scientist
+3,2,2,3,1,0,1,3,2,1,3.95,AI,AI Engineer
+1,1,3,3,3,2,2,3,2,1,3.26,Development,Web Developer
+1,2,1,2,3,2,2,1,1,3,2.75,Database,Database Administrator
+3,0,2,2,2,1,1,2,3,3,3.88,Development,Software Engineer
+3,2,1,2,1,1,3,3,1,1,3.73,Development,Software Engineer
+2,2,1,2,0,1,1,2,1,1,3.6,Database,Database Administrator
+1,3,3,0,3,2,3,0,2,2,3.39,Development,Web Developer
+2,0,2,0,2,2,1,2,3,2,3.55,Security,Cyber Security Analyst
+2,3,1,1,3,1,1,3,1,3,3.72,Security,Cyber Security Analyst
+1,1,0,3,2,1,2,3,2,2,3.84,Security,Cyber Security Analyst
+1,2,0,2,0,0,2,3,3,2,3.52,Security,Cyber Security Analyst
+2,0,1,1,2,2,3,2,1,2,3.0,Development,Software Engineer
+1,2,3,0,1,3,3,2,2,1,2.72,Database,Database Administrator
+1,2,0,2,3,3,2,0,2,2,3.65,Development,Web Developer
+2,3,2,1,0,0,1,2,1,2,3.65,Security,Cyber Security Analyst
+3,3,3,2,0,1,3,2,2,1,3.05,AI,AI Engineer
+1,2,3,3,0,0,1,2,3,3,3.74,Security,Cyber Security Analyst
+2,3,0,0,3,1,3,2,1,3,3.57,Cloud,DevOps Engineer
+1,3,0,1,1,3,3,2,2,2,3.17,Cloud,Cloud Engineer
+2,3,2,3,3,3,3,3,3,2,3.35,Development,Web Developer
+2,2,0,0,0,3,3,1,1,2,2.53,Database,Database Administrator
+2,1,1,2,2,2,0,3,3,1,3.04,Development,Software Engineer
+2,1,1,3,1,3,0,3,2,1,3.96,AI,AI Engineer
+2,3,3,3,3,2,0,3,1,2,3.66,Data,Data Scientist
+3,3,1,3,2,2,1,2,3,2,3.35,Development,Software Engineer
+2,2,3,2,3,0,1,2,3,3,2.78,Data,Data Scientist
+3,3,0,0,2,2,1,3,1,2,3.51,Development,Software Engineer
+3,2,3,2,0,2,2,3,1,3,3.45,Data,Data Scientist
+1,3,3,3,2,3,2,2,1,1,3.7,Development,Web Developer
+1,3,3,1,2,2,0,2,3,2,2.81,Database,Database Administrator
+1,2,2,1,3,3,1,0,3,2,2.67,Development,Web Developer
+2,3,2,2,2,2,2,2,3,2,2.59,Security,Cyber Security Analyst
+3,0,3,1,2,1,3,3,2,2,3.24,Development,Software Engineer
+1,0,0,2,3,3,2,3,1,2,2.93,Development,Web Developer
+2,2,0,0,1,0,2,1,1,2,3.15,Database,Database Administrator
+2,0,3,3,1,1,3,3,2,2,3.77,Development,Software Engineer
+1,3,2,0,2,2,1,0,3,1,3.64,Development,Web Developer
+1,2,2,2,3,0,3,2,2,1,2.86,Cloud,DevOps Engineer
+2,2,2,3,3,3,0,2,2,2,2.93,AI,AI Engineer
+1,1,1,1,3,0,3,2,2,2,2.62,Cloud,Cloud Engineer
+3,3,2,2,1,2,1,3,1,3,3.17,Data,Data Scientist
+3,1,3,0,1,2,1,3,2,2,3.95,Development,Software Engineer
+1,0,3,1,1,3,2,2,3,1,3.03,Security,Cyber Security Analyst
+1,3,2,1,2,1,3,1,2,3,3.65,Database,Database Administrator
+3,2,2,3,0,0,1,3,1,3,3.89,AI,AI Engineer
+3,3,1,3,2,2,2,2,2,3,3.51,Development,Software Engineer
+2,1,1,0,0,3,2,2,1,1,2.88,Cloud,Cloud Engineer
+2,0,2,1,3,2,0,2,3,1,3.57,Development,Web Developer
+2,2,3,2,1,2,2,3,2,1,3.89,Data,Data Scientist
+2,1,2,2,2,1,3,2,2,2,3.76,Data,Data Scientist
+1,0,0,2,1,2,1,2,2,2,3.01,Security,Cyber Security Analyst
+2,0,2,3,2,3,2,1,1,3,3.81,Development,Web Developer
+2,1,2,1,2,2,1,2,2,2,3.65,Development,Software Engineer
+1,3,0,1,2,2,1,3,2,1,2.85,Development,Web Developer
+2,3,3,3,1,1,2,2,2,3,2.81,Database,Database Administrator
+3,1,1,2,2,1,2,3,1,2,3.46,AI,AI Engineer
+2,3,3,1,0,3,2,2,2,2,2.67,Database,Database Administrator
+2,0,1,0,2,3,3,3,3,1,2.84,Cloud,Cloud Engineer
+1,2,1,2,1,1,2,3,2,1,3.93,Security,Cyber Security Analyst
+1,3,2,0,3,2,0,3,2,3,3.16,Development,Web Developer
+2,2,2,2,3,3,0,0,2,2,3.88,Development,Web Developer
+2,2,0,1,3,0,2,2,3,2,2.91,Security,Cyber Security Analyst
+1,0,0,0,1,0,2,2,2,3,3.48,Security,Cyber Security Analyst
+1,0,1,2,2,2,1,0,2,3,3.13,Development,Web Developer
+2,3,0,3,2,2,2,2,2,3,2.94,Development,Software Engineer
+1,3,2,1,2,1,1,3,1,3,3.61,Security,Cyber Security Analyst
+1,0,3,1,0,2,2,2,2,1,3.5,Cloud,Cloud Engineer
+3,1,3,2,3,1,1,2,3,1,3.05,AI,AI Engineer
+3,3,3,2,3,0,0,3,1,3,3.34,Data,Data Scientist
+2,1,1,3,1,0,1,2,3,2,3.44,AI,AI Engineer
+2,2,0,1,3,3,0,2,2,3,3.34,Database,Database Administrator
+2,3,1,1,0,3,3,2,1,1,2.67,Database,Database Administrator
+3,3,3,2,2,3,0,2,2,1,2.66,Data,Data Scientist
+2,3,3,2,1,3,0,3,3,1,2.61,AI,AI Engineer
+3,1,2,3,1,1,3,2,2,2,3.17,Development,Software Engineer
+2,3,3,3,1,2,1,3,1,2,3.29,Data,Data Scientist
+1,3,2,1,1,0,2,2,2,2,3.71,Security,Cyber Security Analyst
+1,1,1,2,3,2,1,3,3,1,2.88,Development,Web Developer
+1,0,3,0,3,1,2,2,1,1,3.76,Cloud,DevOps Engineer
+3,0,3,2,3,1,3,2,2,1,3.99,AI,AI Engineer
+2,1,3,3,0,2,3,2,3,3,2.63,Cloud,DevOps Engineer
+2,3,1,0,3,1,1,2,1,2,3.01,Database,Database Administrator
+3,2,2,1,1,2,2,2,2,1,3.57,Development,Software Engineer
+3,1,3,2,3,1,0,2,3,3,3.99,Data,Data Scientist
+2,2,0,3,1,0,2,2,2,3,2.61,Security,Cyber Security Analyst
+1,3,2,0,0,2,2,3,3,3,3.58,Cloud,Cloud Engineer
+2,2,3,2,2,0,1,1,1,1,3.3,Database,Database Administrator
+2,0,3,3,1,2,0,2,1,2,3.69,AI,AI Engineer
+1,0,1,2,0,1,3,3,2,2,3.71,Cloud,Cloud Engineer
+2,2,1,2,1,1,1,3,2,2,3.45,Development,Software Engineer
+1,0,3,0,3,2,0,2,1,1,3.36,Development,Web Developer
+2,3,0,3,3,3,0,3,3,1,3.65,Development,Web Developer
+2,3,3,2,1,2,0,2,1,3,2.94,Development,Software Engineer
+2,1,1,2,3,0,2,2,3,1,3.65,Cloud,Cloud Engineer
+2,1,1,3,0,0,3,3,3,2,2.52,Cloud,DevOps Engineer
+2,2,0,0,1,0,2,3,2,1,3.45,Cloud,DevOps Engineer
+1,3,0,1,2,3,2,3,2,1,3.94,Security,Cyber Security Analyst
+2,3,1,1,2,3,2,1,2,2,3.88,Development,Web Developer
+1,1,1,0,3,3,2,2,2,3,3.61,Development,Web Developer
+2,0,3,2,2,1,0,3,1,2,3.5,Development,Software Engineer
+2,0,0,3,2,2,2,3,2,3,3.54,Development,Web Developer
+3,2,1,0,2,1,2,2,2,2,2.99,Development,Software Engineer
+1,1,1,2,0,0,3,2,1,2,2.94,Cloud,Cloud Engineer
+3,2,2,0,2,1,3,2,1,2,3.23,Development,Software Engineer
+2,1,2,3,2,1,1,3,2,1,2.62,Development,Software Engineer
+2,1,3,3,0,1,2,2,3,1,3.66,Data,Data Scientist
+2,0,2,0,2,3,2,2,1,3,2.87,Development,Web Developer
+2,0,1,3,0,1,2,2,1,2,3.99,Security,Cyber Security Analyst
+2,2,1,2,0,0,1,3,3,1,3.17,AI,AI Engineer
+2,1,0,0,3,0,3,3,3,2,2.86,Cloud,DevOps Engineer
+1,0,1,3,3,3,2,3,2,3,3.96,Development,Web Developer
+3,1,3,3,2,1,1,2,2,1,3.2,Development,Software Engineer
+2,2,0,3,1,1,3,3,3,3,2.84,Cloud,Cloud Engineer
+2,3,2,0,0,1,2,3,1,2,3.23,Security,Cyber Security Analyst
+2,2,3,2,2,1,0,2,2,3,3.01,AI,AI Engineer
+2,1,2,0,2,3,2,3,3,2,3.3,Cloud,Cloud Engineer
+2,0,1,1,0,2,2,2,2,3,3.13,Cloud,DevOps Engineer
+2,1,1,2,2,2,0,2,1,2,3.6,Development,Software Engineer
+1,2,1,0,2,0,3,2,3,1,2.75,Database,Database Administrator
+1,2,0,3,2,0,3,1,1,3,3.35,Database,Database Administrator
+1,0,3,2,0,3,3,2,2,1,2.82,Cloud,Cloud Engineer
+2,1,2,3,1,0,1,2,3,2,3.69,Data,Data Scientist
+2,1,3,2,2,1,3,3,2,1,3.09,AI,AI Engineer
+2,3,2,0,1,2,2,3,2,2,2.67,Security,Cyber Security Analyst
+2,1,2,1,3,2,3,2,1,2,2.73,Development,Web Developer
+2,1,2,3,3,0,2,3,3,3,2.61,AI,AI Engineer
+2,1,3,2,1,1,2,2,2,1,3.78,Security,Cyber Security Analyst
+2,0,3,1,3,3,2,3,1,2,2.79,Cloud,Cloud Engineer
+1,3,3,3,2,0,1,2,3,3,3.87,Security,Cyber Security Analyst
+2,2,0,2,2,1,1,2,3,1,2.82,Security,Cyber Security Analyst
+2,2,2,0,1,2,2,3,2,1,4.0,Development,Software Engineer
+2,3,3,3,2,1,1,2,2,3,3.29,Security,Cyber Security Analyst
+1,3,1,3,2,2,3,1,1,2,2.68,Development,Web Developer
+2,2,1,2,0,0,0,2,2,1,3.96,Database,Database Administrator
+2,2,2,0,0,3,0,2,1,1,3.86,Database,Database Administrator
+2,1,3,3,1,2,1,3,3,3,3.3,Development,Software Engineer
+2,1,2,3,3,3,2,3,1,2,2.82,Data,Data Scientist
+2,0,2,3,0,2,2,3,3,2,3.56,AI,AI Engineer
+2,0,2,2,0,0,3,3,1,3,3.55,Cloud,Cloud Engineer
+3,3,2,2,3,0,3,3,2,2,3.2,Data,Data Scientist
+2,3,3,2,3,1,3,2,2,2,3.99,Data,Data Scientist
+2,3,1,3,2,1,3,1,1,3,2.94,Database,Database Administrator
+2,3,2,2,0,2,3,3,2,2,3.19,Cloud,DevOps Engineer
+2,2,2,3,2,3,2,1,1,3,2.86,Development,Web Developer
+3,2,2,2,3,0,2,2,3,1,2.9,Data,Data Scientist
+1,3,2,2,2,0,2,2,2,3,3.98,Cloud,Cloud Engineer
+2,2,2,2,2,3,3,3,1,2,2.56,Data,Data Scientist
+1,1,1,1,3,2,1,3,1,3,3.93,Security,Cyber Security Analyst
+3,0,2,0,1,1,0,2,2,2,2.61,Development,Software Engineer
+3,2,2,3,0,1,2,3,2,2,3.93,AI,AI Engineer
+1,1,2,2,0,3,2,3,1,2,3.37,Cloud,Cloud Engineer
+1,0,1,0,3,1,3,3,1,3,3.19,Cloud,DevOps Engineer
+1,0,3,3,2,2,0,3,3,3,3.41,Development,Web Developer
+2,3,1,1,1,1,2,2,3,3,3.96,Security,Cyber Security Analyst
+2,2,2,0,2,2,1,2,2,2,3.28,Development,Software Engineer
+2,1,0,3,2,1,1,3,1,1,3.38,Development,Software Engineer
+1,3,1,0,2,2,1,2,1,3,3.09,Database,Database Administrator
+3,2,3,3,2,0,3,2,3,3,2.73,AI,AI Engineer
+2,3,0,1,1,2,1,2,1,3,3.84,Security,Cyber Security Analyst
+2,2,2,1,2,1,2,2,2,1,2.73,Cloud,DevOps Engineer
+2,0,3,3,1,1,3,2,3,3,2.72,Development,Software Engineer
+3,2,3,3,2,2,2,3,2,1,2.56,AI,AI Engineer
+1,0,1,2,3,3,1,2,2,1,2.59,Security,Cyber Security Analyst
+1,2,2,1,3,0,2,2,2,2,3.75,Security,Cyber Security Analyst
+2,0,1,3,2,2,0,3,3,1,2.53,Development,Software Engineer
+3,3,2,0,1,1,3,3,2,2,2.76,Development,Software Engineer
+1,0,3,3,0,0,3,3,2,2,3.2,Cloud,Cloud Engineer
+3,0,0,2,1,2,0,3,2,3,3.23,Development,Software Engineer
+2,2,3,0,1,2,2,3,2,2,3.05,Cloud,Cloud Engineer
+2,2,3,2,0,1,3,3,3,3,2.89,Cloud,Cloud Engineer
+1,3,0,3,2,2,2,3,2,1,2.99,Cloud,DevOps Engineer
+2,1,0,3,2,3,2,2,1,2,3.04,Cloud,Cloud Engineer
+1,1,0,1,3,3,2,3,3,3,3.41,Development,Web Developer
+2,3,1,1,0,1,3,3,3,2,3.28,Cloud,Cloud Engineer
+2,3,3,1,3,2,2,0,1,2,2.93,Development,Web Developer
+3,2,0,0,1,2,1,3,1,1,2.72,Development,Software Engineer
+2,3,3,0,3,3,3,2,3,2,3.03,Cloud,Cloud Engineer
+2,3,2,3,3,1,3,2,2,1,3.23,Data,Data Scientist
+2,3,2,2,0,1,1,2,2,2,3.35,AI,AI Engineer
+2,3,1,0,2,2,1,3,2,2,3.03,Development,Web Developer
+3,2,1,3,0,3,3,3,2,2,3.09,AI,AI Engineer
+1,3,0,1,3,2,3,0,2,3,3.17,Development,Web Developer
+2,1,3,3,2,2,1,1,1,2,2.84,Development,Web Developer
+2,3,2,0,1,2,2,2,3,2,3.34,Cloud,Cloud Engineer
+2,2,2,2,1,1,2,3,1,3,3.45,Development,Software Engineer
+2,3,3,3,1,3,2,2,1,3,2.89,Data,Data Scientist
+3,1,3,3,1,2,3,3,2,3,3.02,Data,Data Scientist
+2,1,0,0,1,2,2,3,2,3,2.8,Development,Software Engineer
+2,0,1,2,3,3,2,3,1,2,2.65,Cloud,Cloud Engineer
+3,1,2,2,0,0,1,2,2,2,3.73,AI,AI Engineer
+1,2,3,1,2,1,3,3,2,3,2.7,Cloud,DevOps Engineer
+2,1,2,0,2,3,2,2,2,1,3.11,Security,Cyber Security Analyst
+2,1,0,3,2,3,0,3,2,3,3.89,Development,Web Developer
+3,1,3,0,1,2,0,2,1,1,3.42,Development,Software Engineer
+2,3,1,3,1,2,2,2,1,2,2.55,Cloud,DevOps Engineer
+1,3,3,1,3,0,3,3,1,3,3.83,Cloud,DevOps Engineer
+1,2,0,2,2,3,1,3,3,3,4.0,Security,Cyber Security Analyst
+3,0,0,1,2,2,0,2,3,3,3.34,Development,Software Engineer
+1,0,2,2,0,1,2,3,1,2,3.78,Cloud,Cloud Engineer
+2,1,3,2,2,2,3,3,2,1,2.73,Development,Web Developer
+2,2,1,3,3,0,2,3,3,1,3.47,AI,AI Engineer
+1,3,1,2,3,3,0,0,1,3,3.94,Development,Web Developer
+1,0,2,1,2,2,2,2,1,1,3.89,Cloud,DevOps Engineer
+2,3,2,0,0,3,2,2,3,1,2.78,Cloud,Cloud Engineer
+2,1,0,0,2,3,0,2,3,2,3.62,Development,Web Developer
+2,2,2,1,3,3,1,1,2,3,2.64,Database,Database Administrator
+2,2,0,2,2,2,3,2,1,1,3.6,Development,Software Engineer
+3,1,2,2,3,2,1,3,3,1,3.92,Data,Data Scientist
+1,0,3,3,3,1,2,2,2,2,3.94,Security,Cyber Security Analyst
+1,2,1,0,2,0,2,3,1,1,2.58,Security,Cyber Security Analyst
+2,3,2,2,0,1,1,3,1,3,3.06,Data,Data Scientist
+2,3,2,3,1,1,0,2,1,2,3.09,Development,Software Engineer
+3,1,1,3,2,1,3,3,3,1,3.18,Development,Software Engineer
+2,2,3,3,2,0,1,3,2,2,2.57,Data,Data Scientist
+1,3,3,0,2,2,3,3,3,3,3.14,Cloud,Cloud Engineer
+2,0,0,1,0,1,2,3,3,3,3.47,Security,Cyber Security Analyst
+1,1,3,1,3,1,2,2,3,1,3.32,Security,Cyber Security Analyst
+2,1,2,1,2,2,1,2,2,1,3.17,Security,Cyber Security Analyst
+2,3,1,0,1,2,2,3,1,2,3.53,Security,Cyber Security Analyst
+2,2,2,2,1,3,0,3,1,3,2.97,Data,Data Scientist
+2,1,1,0,0,3,3,3,1,1,3.57,Cloud,Cloud Engineer
+2,0,3,3,3,3,1,3,3,1,3.42,Security,Cyber Security Analyst
+2,3,3,2,2,1,3,3,1,1,2.54,AI,AI Engineer
+2,3,3,3,1,1,3,3,2,1,3.16,Data,Data Scientist
+3,3,2,3,1,3,1,3,2,2,3.82,AI,AI Engineer
+3,2,1,2,2,1,1,3,2,3,3.56,AI,AI Engineer
+2,3,3,0,0,2,2,3,3,3,3.38,Cloud,DevOps Engineer
+2,3,1,1,2,3,3,3,3,1,3.15,Cloud,Cloud Engineer
+2,1,1,0,2,3,3,0,1,2,3.43,Development,Web Developer
+1,2,1,3,0,3,2,1,2,1,3.88,Database,Database Administrator
+1,2,2,0,2,2,1,2,1,2,3.55,Development,Web Developer
+1,3,2,0,0,3,1,2,1,3,2.97,Database,Database Administrator
+2,3,0,3,0,2,2,3,1,3,3.48,Cloud,Cloud Engineer
+1,0,0,2,3,0,2,2,2,2,3.51,Cloud,Cloud Engineer
+1,3,3,0,3,2,2,2,2,2,3.33,Development,Web Developer
+2,3,3,2,3,3,2,2,1,3,3.25,Development,Web Developer
+1,0,1,0,3,2,0,3,1,3,2.83,Development,Web Developer
+1,3,2,0,0,3,0,1,1,3,3.07,Database,Database Administrator
+2,2,0,3,3,2,1,3,1,2,2.68,Development,Web Developer
+2,3,2,2,0,1,2,2,1,3,3.58,Cloud,DevOps Engineer
+1,2,3,3,0,3,2,2,3,2,3.07,Cloud,DevOps Engineer
+1,1,3,3,3,3,1,0,1,2,3.66,Development,Web Developer
+1,1,2,2,3,1,2,2,1,3,3.05,Cloud,Cloud Engineer
+1,2,3,1,2,3,2,2,2,2,3.29,Development,Web Developer
+1,0,1,2,1,0,2,2,3,2,3.43,Cloud,DevOps Engineer
+2,2,3,2,3,0,1,2,3,1,3.19,Database,Database Administrator
+1,2,3,0,3,2,3,3,3,2,3.97,Development,Web Developer
+2,2,2,2,0,2,1,3,3,2,3.61,Data,Data Scientist
+3,1,3,3,1,0,1,3,3,1,3.18,AI,AI Engineer
+2,0,1,3,1,3,1,2,1,1,3.78,Security,Cyber Security Analyst
+1,3,2,0,3,0,3,2,1,2,2.89,Database,Database Administrator
+1,2,0,0,0,3,2,3,2,2,3.99,Cloud,Cloud Engineer
+2,0,1,3,2,1,2,2,3,2,2.87,Cloud,Cloud Engineer
+2,3,2,2,1,3,2,2,1,3,3.24,Database,Database Administrator
+1,0,0,2,2,2,1,1,1,2,3.34,Development,Web Developer
+2,2,0,1,1,1,2,2,2,3,3.12,Development,Software Engineer
+2,2,2,3,1,3,2,3,1,3,3.5,Cloud,DevOps Engineer
+1,2,3,0,2,1,2,1,2,1,2.6,Database,Database Administrator
+2,3,2,3,2,1,1,1,3,2,3.97,Database,Database Administrator
+2,1,0,2,2,1,2,2,3,3,3.92,Cloud,DevOps Engineer
+2,3,2,2,0,1,0,2,1,3,3.26,Database,Database Administrator
+2,2,2,0,1,0,1,2,3,2,3.05,Database,Database Administrator
+2,1,2,2,0,2,2,3,1,3,3.31,Cloud,DevOps Engineer
+3,1,3,3,2,0,2,2,2,1,3.88,Data,Data Scientist
+3,0,3,2,0,2,1,3,3,1,2.76,AI,AI Engineer
+2,0,2,2,3,0,2,3,3,2,2.95,Security,Cyber Security Analyst
+2,3,2,3,0,1,0,2,3,1,3.31,Data,Data Scientist
+2,2,1,0,0,2,2,2,3,3,3.76,Cloud,Cloud Engineer
+1,0,3,0,1,2,1,3,2,1,3.96,Security,Cyber Security Analyst
+2,1,2,0,1,2,2,2,3,1,3.0,Development,Software Engineer
+1,3,2,2,1,0,2,2,3,3,2.61,Database,Database Administrator
+2,0,0,1,3,3,3,2,1,3,3.54,Cloud,DevOps Engineer
+2,0,0,2,3,3,1,2,3,2,2.68,Security,Cyber Security Analyst
+3,3,3,3,3,0,2,3,2,1,2.99,Data,Data Scientist
+1,3,2,3,2,0,2,3,2,1,3.12,Security,Cyber Security Analyst
+2,1,2,3,1,2,0,3,1,3,3.06,Development,Software Engineer
+1,1,2,0,2,2,2,0,1,2,3.66,Development,Web Developer
+2,2,1,0,3,2,3,0,3,2,3.46,Development,Web Developer
+2,3,1,0,1,1,1,2,3,1,2.57,Development,Software Engineer
+2,3,3,1,1,2,0,2,2,2,3.86,Development,Software Engineer
+2,2,3,0,0,0,0,1,1,1,3.87,Database,Database Administrator
+2,3,3,2,2,0,2,3,2,1,2.52,Data,Data Scientist
+3,2,1,1,2,2,2,3,3,3,2.95,Development,Software Engineer
+2,0,3,1,3,2,3,2,1,1,3.34,Cloud,Cloud Engineer
+1,0,2,1,0,0,2,2,1,3,3.54,Cloud,Cloud Engineer
+1,1,2,3,0,0,3,2,1,1,3.69,Cloud,Cloud Engineer
+3,0,1,3,0,0,3,2,1,2,3.17,AI,AI Engineer
+2,1,3,2,1,2,2,2,3,2,2.87,AI,AI Engineer
+2,3,0,2,2,3,2,1,2,1,3.02,Development,Web Developer
+2,2,2,2,3,1,2,3,2,2,3.61,Data,Data Scientist
+2,3,2,1,3,2,0,1,1,2,2.53,Database,Database Administrator
+2,0,3,2,1,2,2,3,1,1,3.43,Cloud,DevOps Engineer
+2,3,0,2,2,2,3,2,3,1,3.19,Development,Web Developer
+2,0,2,3,0,2,1,2,1,1,2.82,AI,AI Engineer
+2,0,3,2,1,3,0,2,2,3,3.51,AI,AI Engineer
+2,1,0,2,2,2,1,3,1,1,3.03,Development,Web Developer
+2,3,3,3,0,0,2,2,3,1,3.31,Data,Data Scientist
+1,3,3,2,3,1,1,1,3,1,3.14,Database,Database Administrator
+1,0,1,3,2,2,2,3,3,3,3.12,Development,Web Developer
+2,3,3,2,2,2,3,1,2,2,3.68,Development,Web Developer
+3,3,3,0,2,2,3,2,3,1,3.99,Development,Software Engineer
+2,3,3,3,1,3,2,3,2,2,3.44,AI,AI Engineer
+3,3,2,2,2,0,1,2,3,1,2.89,Data,Data Scientist
+2,2,2,3,0,3,1,3,3,3,2.8,Data,Data Scientist
+2,1,2,2,0,2,0,3,2,2,2.98,AI,AI Engineer
+2,2,0,1,1,2,3,1,3,3,2.52,Database,Database Administrator
+3,3,1,2,2,0,0,3,3,2,3.71,AI,AI Engineer
+1,2,3,0,1,3,0,1,1,1,2.65,Database,Database Administrator
+1,1,1,1,1,3,3,2,2,3,3.0,Cloud,DevOps Engineer
+1,1,2,3,0,2,2,2,2,3,2.94,Cloud,DevOps Engineer
+2,2,2,2,1,0,1,2,2,3,3.98,Data,Data Scientist
+2,0,3,1,1,2,3,2,3,1,3.6,Cloud,DevOps Engineer
+3,2,3,2,2,2,1,3,1,3,3.17,Development,Software Engineer
+1,2,1,1,2,1,2,3,1,2,3.28,Security,Cyber Security Analyst
+2,3,2,3,1,2,0,3,1,2,3.0,Data,Data Scientist
+2,3,1,1,2,1,2,2,1,1,3.52,Cloud,DevOps Engineer
+2,1,0,1,1,1,3,2,2,2,2.78,Cloud,DevOps Engineer
+2,1,2,0,2,3,2,2,2,3,2.77,Development,Web Developer
+2,2,0,3,0,1,3,2,1,3,2.55,Cloud,DevOps Engineer
+2,3,2,1,2,2,1,0,1,2,3.93,Development,Web Developer
+3,1,2,3,0,1,1,2,2,1,3.02,Data,Data Scientist
+1,1,3,2,2,2,0,0,3,2,3.9,Development,Web Developer
+2,1,3,3,2,3,0,2,3,2,3.56,Data,Data Scientist
+1,3,1,0,0,3,2,3,1,3,3.93,Security,Cyber Security Analyst
+1,2,3,0,2,0,2,3,1,3,3.77,Security,Cyber Security Analyst
+2,0,1,3,3,2,3,3,3,3,3.73,Cloud,DevOps Engineer
+2,1,1,2,1,2,2,3,3,1,3.93,Cloud,Cloud Engineer
+2,3,1,2,3,2,3,3,3,3,3.71,Cloud,DevOps Engineer
+3,0,1,2,3,2,0,2,2,1,2.52,AI,AI Engineer
+2,2,2,3,3,0,3,3,3,2,3.6,Data,Data Scientist
+2,0,3,3,2,3,0,1,3,2,3.69,Development,Web Developer
+2,0,3,3,1,1,1,3,1,2,3.48,Security,Cyber Security Analyst
+1,3,0,0,2,1,0,2,1,3,2.78,Database,Database Administrator
+2,1,3,2,0,3,2,3,1,1,2.84,AI,AI Engineer
+3,0,1,3,0,1,3,3,3,3,2.51,AI,AI Engineer
+1,0,0,1,2,3,2,3,3,3,3.71,Cloud,DevOps Engineer
+3,0,1,0,1,1,0,3,1,2,3.05,Development,Software Engineer
+2,1,0,1,0,1,2,2,1,3,3.36,Cloud,Cloud Engineer
+2,3,0,1,1,0,0,2,1,3,3.28,Database,Database Administrator
+2,0,0,3,3,2,1,3,3,1,3.34,Security,Cyber Security Analyst
+2,3,1,2,0,3,0,1,2,2,3.75,Database,Database Administrator
+2,3,0,3,1,3,0,1,1,2,2.59,Database,Database Administrator
+3,2,3,2,2,0,3,2,3,1,3.7,Data,Data Scientist
+2,2,0,1,1,2,2,2,2,2,3.84,Database,Database Administrator
+3,2,3,3,2,1,3,2,3,3,3.12,AI,AI Engineer
+2,1,2,2,3,3,3,3,1,2,3.04,Cloud,DevOps Engineer
+2,3,0,0,3,1,1,1,2,1,3.19,Database,Database Administrator
+2,3,0,3,2,1,2,3,2,3,3.6,Cloud,DevOps Engineer
+2,1,1,2,1,3,3,2,1,3,3.98,AI,AI Engineer
+3,3,1,3,3,0,0,3,2,1,3.34,AI,AI Engineer
+2,0,1,2,2,2,0,3,1,1,2.93,Development,Web Developer
+1,3,0,1,3,1,3,3,1,2,3.26,Cloud,DevOps Engineer
+2,2,0,3,2,3,2,3,2,2,2.5,Cloud,DevOps Engineer
+2,3,3,3,3,2,2,2,2,2,2.76,AI,AI Engineer
+2,0,1,3,1,0,2,3,1,1,3.98,AI,AI Engineer
+2,0,2,2,0,0,3,3,1,2,3.94,Cloud,Cloud Engineer
+2,3,2,3,3,2,2,3,3,2,3.5,AI,AI Engineer
+2,3,3,3,0,2,1,2,2,3,3.18,Data,Data Scientist
+2,3,2,1,2,2,2,3,2,1,2.54,Security,Cyber Security Analyst
+1,1,3,2,1,0,1,3,1,3,2.83,Security,Cyber Security Analyst
+2,1,3,2,2,0,2,3,3,1,3.98,Data,Data Scientist
+2,2,2,3,3,0,2,2,1,3,3.92,Cloud,Cloud Engineer
+2,0,2,3,2,0,2,2,3,3,2.96,Cloud,DevOps Engineer
+1,2,3,0,2,0,2,1,1,3,3.07,Database,Database Administrator
+1,3,1,1,2,2,2,1,2,2,3.15,Database,Database Administrator
+2,3,1,2,1,0,1,2,2,1,2.92,Security,Cyber Security Analyst
+2,3,0,1,3,2,2,3,2,2,4.0,Security,Cyber Security Analyst
+2,3,1,1,0,2,2,3,1,2,2.67,Security,Cyber Security Analyst
+2,3,3,3,3,2,1,2,3,1,2.91,Development,Web Developer
+1,3,1,1,0,2,2,2,2,3,3.82,Security,Cyber Security Analyst
+3,1,3,3,2,0,0,2,3,2,2.75,Data,Data Scientist
+1,1,2,1,3,3,2,1,2,1,3.41,Development,Web Developer
+1,0,2,1,1,0,3,2,2,1,3.99,Cloud,Cloud Engineer
+2,0,1,2,2,0,3,2,1,2,3.07,Cloud,DevOps Engineer
+1,1,1,2,2,3,3,2,1,3,2.81,Cloud,DevOps Engineer
+2,3,0,3,3,3,3,1,1,2,3.3,Database,Database Administrator
+2,3,3,2,3,2,0,2,1,2,2.77,Data,Data Scientist
+2,2,1,2,2,0,0,3,2,2,3.28,AI,AI Engineer
+3,3,2,3,1,1,1,3,3,2,2.99,Data,Data Scientist
+3,1,1,3,1,2,1,3,3,1,2.58,Development,Software Engineer
+3,3,3,3,0,0,2,2,2,2,3.52,Data,Data Scientist
+3,3,1,1,2,2,1,3,1,2,3.47,Development,Software Engineer
+1,3,3,0,3,3,2,2,2,2,3.86,Development,Web Developer
+1,1,0,1,2,1,2,2,1,3,3.35,Cloud,DevOps Engineer
+1,0,3,3,0,1,2,3,2,1,3.36,Cloud,DevOps Engineer
+2,0,2,1,2,3,0,0,2,2,3.39,Development,Web Developer
+1,3,1,3,3,3,1,2,2,2,3.76,Database,Database Administrator
+2,2,1,3,2,3,0,2,1,2,2.85,AI,AI Engineer
+2,2,1,3,2,3,2,2,3,3,3.94,Development,Web Developer
+3,0,0,0,2,2,3,2,1,2,3.37,Development,Software Engineer
+2,3,3,2,2,3,2,3,1,1,2.74,AI,AI Engineer
+2,0,0,3,0,0,3,3,1,3,2.58,Cloud,Cloud Engineer
+3,2,0,3,1,1,0,3,2,3,3.88,Development,Software Engineer
+2,3,3,1,3,2,0,1,3,3,3.82,Database,Database Administrator
+2,1,2,2,1,1,1,2,3,2,2.77,Security,Cyber Security Analyst
+2,1,3,2,0,2,2,3,3,1,2.88,Cloud,Cloud Engineer
+2,2,3,2,1,1,2,3,2,1,3.25,Development,Software Engineer
+1,3,0,0,0,3,1,1,1,2,2.95,Database,Database Administrator
+1,0,0,3,2,3,3,0,2,2,3.59,Development,Web Developer
+3,2,2,3,0,2,0,3,1,3,2.57,Data,Data Scientist
+2,0,2,3,0,0,2,2,3,3,3.93,Cloud,Cloud Engineer
+1,3,3,0,1,2,2,3,3,1,2.52,Cloud,DevOps Engineer
+3,1,3,3,2,0,2,2,3,1,2.75,AI,AI Engineer
+1,3,3,1,3,2,1,2,2,2,2.6,Database,Database Administrator
+3,3,0,2,1,1,1,2,1,2,2.59,Development,Software Engineer
+3,2,3,2,0,0,2,2,2,2,3.87,AI,AI Engineer
+3,1,2,2,1,2,2,2,3,3,2.93,Data,Data Scientist
+2,2,2,1,1,3,3,2,3,1,3.29,Cloud,DevOps Engineer
+1,3,1,1,2,1,3,3,2,2,3.35,Cloud,DevOps Engineer
+1,2,2,3,2,2,1,3,1,2,2.86,Security,Cyber Security Analyst
+3,1,0,3,2,1,2,2,2,3,3.26,Development,Software Engineer
+1,0,3,2,0,2,2,2,3,3,3.42,Security,Cyber Security Analyst
+1,2,1,0,1,0,2,2,2,2,2.78,Security,Cyber Security Analyst
+1,2,1,2,3,2,0,1,1,3,2.83,Database,Database Administrator
+1,2,3,2,2,3,0,1,3,3,2.95,Database,Database Administrator
+2,0,3,1,3,2,0,2,3,1,3.18,Development,Web Developer
+1,1,0,1,2,3,3,0,3,3,2.72,Development,Web Developer
+1,0,2,1,0,1,1,3,3,1,3.1,Security,Cyber Security Analyst
+1,3,2,3,3,3,0,1,2,1,3.76,Development,Web Developer
+2,2,1,1,2,1,1,2,3,2,2.6,Development,Software Engineer
+1,0,0,3,2,3,1,0,1,2,3.9,Development,Web Developer
+2,0,2,3,1,1,0,3,1,2,2.88,AI,AI Engineer
+1,3,3,1,2,2,3,3,3,1,2.96,Development,Web Developer
+1,2,0,3,0,3,1,2,3,3,3.57,Security,Cyber Security Analyst
+2,1,3,1,2,3,2,3,3,2,3.83,Cloud,Cloud Engineer
+2,0,1,0,2,0,2,3,3,1,3.31,Cloud,Cloud Engineer
+2,0,2,0,0,3,3,2,2,1,3.64,Cloud,DevOps Engineer
+1,1,0,1,3,3,3,0,3,3,3.2,Development,Web Developer
+2,3,3,2,3,1,0,3,3,2,3.81,Data,Data Scientist
+2,0,2,2,3,2,2,2,2,3,3.67,Cloud,Cloud Engineer
+3,3,2,1,2,1,2,3,2,3,2.73,Development,Software Engineer
+2,2,1,0,2,3,2,1,2,3,3.2,Database,Database Administrator
+2,1,2,3,1,1,1,2,2,3,3.77,Data,Data Scientist
+2,1,1,3,0,1,1,3,1,1,3.94,AI,AI Engineer
+3,2,2,3,1,1,1,3,1,2,3.18,Data,Data Scientist
+2,2,1,1,2,2,2,2,2,1,3.29,Development,Software Engineer
+3,0,3,2,3,1,0,3,2,3,3.53,AI,AI Engineer
+2,1,2,3,0,0,3,3,3,3,3.47,Cloud,DevOps Engineer
+1,0,3,2,2,2,2,1,3,2,3.0,Development,Web Developer
+2,3,0,2,3,1,0,1,3,3,3.87,Database,Database Administrator
+2,2,0,3,0,1,0,2,1,3,3.85,Database,Database Administrator
+1,2,1,2,0,3,2,2,1,1,3.25,Cloud,Cloud Engineer
+2,2,3,2,1,0,1,3,3,2,3.75,AI,AI Engineer
+2,0,1,0,3,1,3,3,1,2,2.63,Cloud,DevOps Engineer
+1,3,2,3,1,0,3,3,1,3,3.14,Cloud,DevOps Engineer
+1,2,1,2,2,1,3,3,2,1,3.99,Cloud,DevOps Engineer
+1,2,1,2,3,3,3,3,1,3,3.06,Cloud,DevOps Engineer
+2,3,0,2,2,1,2,2,3,2,2.88,Cloud,DevOps Engineer
+2,2,3,3,2,2,1,3,1,3,2.73,AI,AI Engineer
+3,3,3,2,0,0,0,3,3,2,2.6,Data,Data Scientist
+2,0,1,3,0,3,1,3,2,2,3.43,AI,AI Engineer
+2,2,3,3,0,2,2,3,1,1,3.52,Cloud,Cloud Engineer
+3,1,1,2,2,2,0,3,1,2,3.97,AI,AI Engineer
+2,3,0,3,3,3,2,2,2,3,2.51,Database,Database Administrator
+2,1,1,3,1,1,3,2,3,3,3.69,Cloud,Cloud Engineer
+2,3,1,3,3,1,1,3,2,3,3.06,AI,AI Engineer
+2,0,1,3,0,3,3,2,3,2,2.81,Cloud,Cloud Engineer
+1,3,2,3,2,3,0,2,1,1,3.86,Database,Database Administrator
+2,2,1,0,1,2,1,3,1,2,3.68,Development,Software Engineer
+2,2,1,2,1,0,1,3,1,3,3.19,AI,AI Engineer
+2,0,2,0,3,2,2,0,1,1,2.96,Development,Web Developer
+2,3,2,2,0,0,2,2,3,3,2.94,Data,Data Scientist
+2,0,2,3,2,1,3,3,2,1,3.45,AI,AI Engineer
+2,0,3,2,3,3,3,3,1,2,2.54,Cloud,DevOps Engineer
+2,3,2,2,1,1,1,3,1,3,2.94,Security,Cyber Security Analyst
+1,3,0,2,3,2,1,2,3,2,3.75,Development,Web Developer
+2,3,1,1,2,0,1,2,1,3,3.66,Database,Database Administrator
+1,0,2,0,1,2,3,3,2,2,3.01,Cloud,DevOps Engineer
+3,2,3,3,0,2,0,2,3,1,3.9,Data,Data Scientist
+3,0,1,2,2,1,2,2,3,3,2.51,Development,Software Engineer
+3,2,3,3,0,1,0,3,3,2,3.04,Data,Data Scientist
+2,3,0,2,1,2,0,1,1,1,2.86,Database,Database Administrator
+1,3,3,1,0,2,0,2,3,3,3.44,Database,Database Administrator
+1,2,0,3,0,2,0,1,2,3,2.89,Database,Database Administrator
+1,3,3,2,2,2,2,0,3,1,3.16,Development,Web Developer
+3,0,2,0,2,2,0,2,3,1,2.77,Development,Software Engineer
+2,3,1,2,2,0,0,2,3,3,3.29,AI,AI Engineer
+1,1,3,2,2,0,3,2,3,3,3.33,Cloud,Cloud Engineer
+2,3,1,1,1,0,2,3,1,3,2.54,Security,Cyber Security Analyst
+2,0,0,1,1,2,2,3,1,2,3.93,Development,Software Engineer
+1,0,2,2,1,2,3,3,3,3,2.73,Cloud,DevOps Engineer
+1,1,0,1,3,3,2,2,2,1,2.88,Cloud,DevOps Engineer
+1,1,2,1,1,0,1,3,1,3,2.85,Security,Cyber Security Analyst
+1,1,0,1,1,2,3,3,1,3,2.57,Cloud,DevOps Engineer
+2,2,2,0,3,0,3,3,1,2,3.68,Cloud,DevOps Engineer
+2,2,2,3,0,0,1,3,3,2,3.09,Data,Data Scientist
+2,0,2,2,1,2,1,3,2,1,3.78,Development,Software Engineer
+2,2,2,2,1,0,3,2,3,2,3.66,Data,Data Scientist
+3,3,3,2,2,3,0,2,2,3,3.01,AI,AI Engineer
+3,2,3,3,0,2,1,3,1,3,3.64,AI,AI Engineer
+1,0,3,1,3,0,2,3,2,2,3.19,Security,Cyber Security Analyst
+2,2,3,2,2,3,2,3,3,2,2.7,Security,Cyber Security Analyst
+2,3,0,2,1,2,2,2,1,3,3.49,Development,Software Engineer
+1,0,3,1,2,1,2,2,3,3,2.81,Security,Cyber Security Analyst
+2,3,1,2,2,2,3,2,3,3,2.76,Development,Web Developer
+2,0,0,1,3,0,1,3,3,2,3.3,Security,Cyber Security Analyst
+2,2,2,2,2,1,2,2,1,1,3.26,Database,Database Administrator
+2,2,1,0,1,0,3,1,1,2,2.82,Database,Database Administrator
+3,3,2,2,1,3,2,3,2,2,3.45,Data,Data Scientist
+2,1,3,3,3,3,1,3,2,3,3.87,AI,AI Engineer
+2,3,2,0,3,2,3,0,2,3,2.6,Development,Web Developer
+3,3,1,3,0,0,2,2,2,2,3.9,AI,AI Engineer
+2,0,2,3,1,1,2,2,2,2,3.24,AI,AI Engineer
+2,3,0,0,3,3,2,1,2,1,3.12,Database,Database Administrator
+2,1,2,3,0,3,0,3,3,2,3.44,Data,Data Scientist
+1,2,0,1,2,3,3,3,3,3,3.06,Cloud,Cloud Engineer
+2,1,0,1,0,1,3,2,1,3,2.59,Cloud,Cloud Engineer
+1,1,3,1,0,3,3,3,2,2,3.99,Cloud,DevOps Engineer
+1,3,2,3,3,1,1,2,3,1,3.53,Security,Cyber Security Analyst
+1,1,2,3,3,0,2,3,3,2,3.7,Cloud,DevOps Engineer
+2,0,3,0,1,2,1,3,2,1,2.94,Development,Software Engineer
+2,2,0,0,2,2,3,3,2,1,2.5,Cloud,Cloud Engineer
+1,3,3,3,1,1,3,2,1,3,2.81,Cloud,Cloud Engineer
+1,0,2,1,2,2,3,3,2,1,2.97,Development,Web Developer
+1,2,3,1,3,2,2,2,2,1,2.79,Development,Web Developer
+2,3,2,2,0,1,3,3,1,3,2.72,Data,Data Scientist
+2,3,3,3,2,1,2,2,1,3,3.93,Security,Cyber Security Analyst
+2,1,2,3,3,0,2,3,3,2,3.58,Data,Data Scientist
+1,0,1,0,0,0,2,3,3,1,3.41,Cloud,Cloud Engineer
+2,0,3,2,3,3,1,3,1,1,3.22,Development,Web Developer
+2,2,3,2,1,2,1,3,2,1,2.84,Development,Software Engineer
+1,2,0,2,1,0,0,1,3,1,2.76,Database,Database Administrator
+1,0,2,0,1,1,3,3,1,1,3.91,Cloud,Cloud Engineer
+1,1,1,1,0,0,3,3,3,1,3.85,Cloud,Cloud Engineer
+1,3,0,3,2,2,2,2,1,2,3.88,Development,Web Developer
+3,1,2,3,0,2,2,2,2,2,3.52,Data,Data Scientist
+1,2,1,3,0,1,2,3,1,1,3.66,Cloud,DevOps Engineer
+1,3,1,3,0,1,2,2,2,3,2.62,Security,Cyber Security Analyst
+2,2,3,2,1,2,3,3,3,2,3.24,Cloud,DevOps Engineer
+2,0,1,3,0,1,3,2,2,1,2.97,Cloud,DevOps Engineer
+1,2,1,2,0,1,3,2,2,1,2.63,Cloud,DevOps Engineer
+1,0,2,0,1,1,1,2,3,2,3.48,Security,Cyber Security Analyst
+3,0,1,3,2,0,3,2,1,3,3.32,AI,AI Engineer
+2,3,3,3,3,3,1,0,3,3,3.98,Development,Web Developer
+2,3,2,2,0,0,2,3,2,1,3.36,Data,Data Scientist
+1,1,0,1,0,0,3,2,1,1,3.41,Cloud,DevOps Engineer
+2,2,3,1,2,2,3,3,3,3,2.96,Development,Software Engineer
+1,1,2,3,3,3,1,3,1,2,3.03,Development,Web Developer
+3,1,1,3,0,0,1,3,3,2,2.95,AI,AI Engineer
+3,2,2,2,0,2,2,3,2,1,3.38,Data,Data Scientist
+2,1,2,3,2,2,0,0,2,3,2.66,Development,Web Developer
+2,3,3,0,0,3,2,3,2,3,3.18,Cloud,Cloud Engineer
+2,0,1,1,0,2,3,3,1,1,2.94,Cloud,DevOps Engineer
+1,1,1,2,2,3,3,2,1,3,3.6,Cloud,Cloud Engineer
+2,0,2,3,3,2,2,1,1,3,3.29,Development,Web Developer
+1,1,0,0,2,2,3,1,1,2,3.3,Development,Web Developer
+3,0,0,1,2,2,2,3,3,3,3.55,Development,Software Engineer
+2,3,3,1,2,2,0,3,2,3,3.99,Development,Web Developer
+3,0,1,0,1,2,2,2,3,1,3.57,Development,Software Engineer
+2,0,1,3,1,2,1,2,2,3,3.16,Security,Cyber Security Analyst
+2,1,3,3,3,2,2,3,3,3,3.11,Security,Cyber Security Analyst
+2,3,2,0,2,2,0,3,1,2,3.77,Development,Web Developer
+2,3,1,3,2,1,1,3,3,3,2.93,AI,AI Engineer
+1,3,1,0,3,0,3,3,1,3,3.74,Cloud,DevOps Engineer
+2,0,0,1,1,0,2,3,2,3,3.12,Cloud,Cloud Engineer
+2,1,2,2,2,1,0,3,2,2,3.17,AI,AI Engineer
+2,3,0,3,2,3,1,0,1,1,3.48,Development,Web Developer
+1,1,2,1,2,2,2,0,1,1,3.37,Development,Web Developer
+1,0,1,1,3,0,3,2,2,3,3.52,Cloud,Cloud Engineer
+3,2,1,0,1,2,0,3,1,3,3.35,Development,Software Engineer
+1,0,3,1,2,1,3,2,3,1,3.49,Cloud,Cloud Engineer
+3,0,2,0,1,2,2,2,3,2,3.62,Development,Software Engineer
+1,0,2,3,3,3,0,2,3,3,3.75,Development,Web Developer
+2,2,2,0,2,1,2,2,1,2,2.65,Cloud,DevOps Engineer
+2,1,1,1,0,1,3,2,2,3,3.93,Cloud,DevOps Engineer
+2,2,0,1,2,0,3,2,3,3,3.71,Cloud,Cloud Engineer
+1,2,3,2,2,0,2,2,3,3,2.67,Security,Cyber Security Analyst
+3,1,3,3,0,2,3,3,1,3,2.54,Data,Data Scientist
+1,3,1,0,1,3,1,2,2,1,2.68,Security,Cyber Security Analyst
+1,2,0,0,3,3,2,3,2,1,3.93,Cloud,Cloud Engineer
+1,2,2,1,2,1,2,1,2,1,3.28,Database,Database Administrator
+3,3,1,3,0,1,3,3,1,2,3.77,AI,AI Engineer
+1,2,2,1,3,2,2,3,3,3,2.8,Cloud,DevOps Engineer
+2,3,2,0,3,2,2,2,3,1,3.12,Cloud,Cloud Engineer
+2,0,0,2,2,3,2,2,2,1,3.4,Cloud,Cloud Engineer
+2,2,3,1,0,2,2,2,3,2,3.78,Database,Database Administrator
+2,3,3,3,1,1,2,3,3,3,2.64,Data,Data Scientist
+2,3,0,2,1,1,3,3,2,1,3.82,Development,Software Engineer
+2,3,1,3,1,2,2,3,3,3,3.88,Cloud,Cloud Engineer
+1,3,3,1,0,2,3,2,1,3,3.71,Database,Database Administrator
+2,1,3,3,1,2,2,2,1,3,3.23,AI,AI Engineer
+1,3,1,2,3,0,3,2,2,1,3.04,Cloud,DevOps Engineer
+3,0,1,3,0,1,0,3,3,1,2.85,AI,AI Engineer
+1,2,3,3,1,1,1,1,2,2,2.58,Database,Database Administrator
+1,2,2,1,1,2,1,2,3,3,3.26,Security,Cyber Security Analyst
+1,0,0,0,0,0,3,3,2,3,2.98,Cloud,DevOps Engineer
+1,2,3,1,2,0,2,2,1,2,2.99,Database,Database Administrator
+2,3,0,2,3,3,2,2,2,1,3.39,Cloud,DevOps Engineer
+2,3,3,2,2,2,1,2,3,2,3.34,Data,Data Scientist
+2,3,0,3,0,2,3,2,3,1,2.89,Cloud,Cloud Engineer
+2,1,1,3,0,0,3,3,3,1,3.35,Cloud,DevOps Engineer
+3,2,2,2,1,1,1,3,3,1,2.55,Data,Data Scientist
+3,3,3,0,2,2,3,3,2,2,2.85,Development,Software Engineer
+1,1,3,0,3,2,2,3,3,1,2.94,Cloud,DevOps Engineer
+2,2,3,2,2,3,3,2,3,2,3.28,Data,Data Scientist
+1,1,0,0,3,1,2,2,3,3,3.9,Security,Cyber Security Analyst
+1,3,1,3,3,2,0,3,3,2,3.23,Development,Web Developer
+2,0,2,3,2,0,0,3,3,2,3.35,AI,AI Engineer
+2,1,3,3,3,1,2,3,1,3,3.33,Security,Cyber Security Analyst
+1,1,1,3,3,3,1,3,2,2,3.27,Security,Cyber Security Analyst
+2,1,3,0,1,2,3,3,2,3,3.94,Cloud,Cloud Engineer
+1,1,3,1,0,3,2,3,1,2,2.86,Security,Cyber Security Analyst
+2,3,2,0,1,2,3,2,3,3,3.62,Development,Software Engineer
+3,3,2,2,2,2,2,2,3,2,2.74,Development,Software Engineer
+1,1,1,3,2,3,2,3,1,3,2.64,Cloud,DevOps Engineer
+2,1,3,2,1,3,2,2,2,3,3.11,Data,Data Scientist
+3,0,3,3,0,0,1,3,2,2,3.08,AI,AI Engineer
+2,3,1,0,3,2,3,2,2,3,3.93,Development,Web Developer
+1,1,1,3,1,0,3,2,3,3,2.73,Cloud,DevOps Engineer
+2,0,0,3,2,2,0,2,3,3,3.58,Development,Software Engineer
+3,1,2,3,3,1,3,3,3,1,2.71,AI,AI Engineer
+2,1,0,1,2,3,0,1,2,3,3.28,Development,Web Developer
+1,3,1,0,3,3,2,1,3,3,3.24,Database,Database Administrator
+3,0,1,2,3,1,3,2,2,1,2.74,AI,AI Engineer
+2,0,0,1,2,0,3,2,3,3,3.09,Cloud,Cloud Engineer
+3,2,0,1,1,2,3,2,3,2,3.1,Development,Software Engineer
+2,1,2,0,1,0,2,2,3,3,3.17,Cloud,DevOps Engineer
+2,3,1,1,1,0,3,3,1,2,3.27,Cloud,Cloud Engineer
+2,3,2,1,3,1,1,1,2,3,3.92,Database,Database Administrator
+2,1,1,2,2,3,2,2,1,2,3.84,Security,Cyber Security Analyst
+1,2,0,2,2,3,2,1,1,2,3.66,Development,Web Developer
+2,3,2,0,0,0,2,3,1,2,2.93,Security,Cyber Security Analyst
+2,3,0,0,1,0,3,3,3,1,2.51,Cloud,DevOps Engineer
+1,3,3,0,2,2,1,2,3,3,2.99,Development,Web Developer
+2,3,2,1,1,1,3,3,2,3,2.9,Cloud,Cloud Engineer
+1,2,2,1,2,2,3,1,2,2,3.38,Development,Web Developer
+2,1,2,1,2,2,2,3,2,1,3.15,Development,Software Engineer
+2,3,3,2,2,3,2,1,2,3,3.21,Database,Database Administrator
+1,3,2,0,2,2,2,0,3,3,3.19,Development,Web Developer
+2,2,3,3,3,0,0,2,1,2,3.02,Database,Database Administrator
+3,0,2,3,0,3,0,3,1,2,3.37,AI,AI Engineer
+1,3,1,2,3,1,3,3,1,1,2.74,Cloud,DevOps Engineer
+2,3,1,2,2,3,3,3,1,2,3.13,Cloud,DevOps Engineer
+1,0,2,3,3,2,3,2,2,1,2.97,Cloud,DevOps Engineer
+2,0,3,3,0,3,2,2,1,3,3.3,Cloud,DevOps Engineer
+2,2,3,0,3,3,1,2,1,3,3.1,Development,Web Developer
+3,0,1,1,2,2,0,3,2,3,2.9,Development,Software Engineer
+1,0,2,3,1,0,3,2,2,1,2.98,Cloud,Cloud Engineer
+3,2,3,3,3,3,0,2,1,2,2.9,Data,Data Scientist
+2,2,2,3,0,1,3,3,3,2,3.78,Data,Data Scientist
+3,1,3,2,0,0,3,2,2,1,3.85,Data,Data Scientist
+2,2,0,3,3,3,2,2,3,1,2.98,Database,Database Administrator
+2,2,2,0,0,3,3,2,2,3,3.49,Cloud,Cloud Engineer
+2,0,3,1,3,2,2,2,1,2,3.42,Development,Web Developer
+2,2,2,2,1,2,3,2,1,2,2.65,Data,Data Scientist
+2,2,1,0,3,1,1,3,3,3,3.07,Security,Cyber Security Analyst
+2,1,3,0,1,1,3,2,3,2,3.29,Cloud,DevOps Engineer
+1,1,2,2,1,3,1,3,2,3,3.67,Security,Cyber Security Analyst
+1,0,3,1,3,2,2,3,1,3,2.51,Cloud,Cloud Engineer
+1,2,3,1,3,1,2,3,3,3,2.98,Security,Cyber Security Analyst
+2,2,1,2,2,1,2,3,2,1,3.59,Development,Software Engineer
+2,2,0,0,1,2,1,1,2,2,2.9,Database,Database Administrator
+1,3,1,1,0,2,2,2,3,3,2.87,Database,Database Administrator
+3,2,3,3,3,3,3,2,3,3,3.5,Data,Data Scientist
+2,2,3,2,0,1,1,2,3,1,3.91,AI,AI Engineer
+2,2,1,0,3,2,0,2,1,2,3.04,Database,Database Administrator
+1,3,0,1,0,0,2,3,2,1,3.81,Cloud,Cloud Engineer
+2,0,1,2,1,1,2,2,3,1,3.12,AI,AI Engineer
+2,2,2,3,1,2,0,3,3,3,3.24,Data,Data Scientist
+1,2,3,3,1,2,0,1,3,3,2.9,Database,Database Administrator
+2,0,3,1,3,2,2,3,1,2,3.67,Security,Cyber Security Analyst
+2,0,1,0,1,3,3,3,1,1,2.61,Cloud,Cloud Engineer
+2,3,1,2,0,1,2,3,2,2,2.73,Cloud,DevOps Engineer
+3,1,2,0,2,2,2,2,3,3,3.3,Development,Software Engineer
+1,3,0,0,3,0,2,2,3,1,3.61,Security,Cyber Security Analyst
+2,2,2,3,2,3,2,2,3,2,3.6,Data,Data Scientist
+2,1,2,1,1,3,3,3,3,3,3.76,Cloud,DevOps Engineer
+1,0,2,1,1,1,2,3,2,3,2.86,Cloud,Cloud Engineer
+3,1,2,2,3,0,2,2,3,2,2.67,Data,Data Scientist
+2,3,2,2,2,1,0,2,3,1,3.01,Development,Software Engineer
+2,3,0,1,2,3,2,1,1,3,2.84,Database,Database Administrator
+1,1,0,2,1,2,3,2,1,3,3.32,Cloud,DevOps Engineer
+3,0,2,2,0,1,2,2,1,1,3.76,AI,AI Engineer
+3,0,1,3,2,1,0,2,2,2,2.87,Development,Software Engineer
+2,2,0,3,2,1,1,2,2,2,2.69,Database,Database Administrator
+1,2,1,2,2,0,2,2,2,1,3.74,Cloud,Cloud Engineer
+3,3,2,2,2,2,3,3,3,2,2.88,AI,AI Engineer
+3,0,1,3,1,3,0,2,1,2,3.74,AI,AI Engineer
+1,2,0,1,3,2,2,0,3,2,3.53,Development,Web Developer
+2,2,3,0,2,2,1,3,3,2,3.42,Development,Web Developer
+1,2,0,1,3,3,3,2,3,1,3.81,Development,Web Developer
+1,3,0,3,0,0,2,2,2,2,3.03,Database,Database Administrator
+2,3,0,2,1,1,2,2,3,1,2.99,Database,Database Administrator
+2,2,0,3,2,2,0,1,1,2,3.28,Database,Database Administrator
+1,2,0,1,3,2,1,2,2,1,3.79,Security,Cyber Security Analyst
+3,2,1,3,0,1,1,3,2,2,3.17,AI,AI Engineer
+2,1,1,2,0,0,3,2,3,2,3.68,Cloud,DevOps Engineer
+1,1,3,1,2,3,1,3,2,2,3.21,Security,Cyber Security Analyst
+2,3,1,1,2,3,3,1,1,2,3.09,Development,Web Developer
+2,3,3,0,2,3,2,2,2,2,3.82,Cloud,DevOps Engineer
+3,1,1,3,1,1,0,2,1,3,3.27,Development,Software Engineer
+2,3,3,3,3,2,1,3,1,3,2.87,AI,AI Engineer
+2,3,1,1,1,2,1,3,3,2,3.13,Development,Software Engineer
+1,3,3,3,3,2,0,2,3,2,3.85,Database,Database Administrator
+1,3,2,3,0,0,2,2,1,1,2.99,Cloud,Cloud Engineer
+1,1,3,1,2,2,1,0,3,2,3.67,Development,Web Developer
+1,3,2,3,3,1,2,2,1,2,2.76,Security,Cyber Security Analyst
+1,2,0,1,3,2,3,1,2,2,3.23,Database,Database Administrator
+3,2,2,3,1,2,0,3,3,3,3.77,Data,Data Scientist
+3,1,1,2,2,1,2,2,3,3,3.3,Development,Software Engineer
+3,2,3,3,1,2,0,2,1,1,3.94,Data,Data Scientist
+3,1,1,2,3,0,1,3,2,1,3.46,AI,AI Engineer
+1,1,2,3,0,3,3,2,1,2,3.81,Cloud,Cloud Engineer
+2,3,2,1,0,3,2,3,1,3,2.78,Security,Cyber Security Analyst
+1,0,1,2,3,2,2,3,1,2,3.03,Security,Cyber Security Analyst
+3,0,2,2,1,2,0,2,3,1,2.75,Development,Software Engineer
+1,3,0,1,2,3,1,3,2,3,2.97,Security,Cyber Security Analyst
+2,3,2,0,1,3,3,1,2,2,3.44,Database,Database Administrator
+1,0,1,3,2,3,3,2,2,3,3.47,Cloud,DevOps Engineer
+1,0,0,0,3,1,1,2,2,3,3.36,Security,Cyber Security Analyst
+1,0,1,0,0,1,3,2,3,2,3.09,Cloud,DevOps Engineer
+3,3,3,2,0,1,3,2,3,3,2.76,Data,Data Scientist
+3,2,3,2,1,1,0,2,3,3,3.03,AI,AI Engineer
+3,2,2,3,0,1,1,2,2,2,3.3,Data,Data Scientist
+2,3,1,1,1,1,2,3,2,3,2.79,Cloud,DevOps Engineer
+1,1,2,2,2,0,2,2,2,1,3.42,Security,Cyber Security Analyst
+2,1,2,1,2,0,3,3,1,2,2.62,Cloud,DevOps Engineer
+2,0,1,1,2,2,2,3,2,1,3.49,Development,Software Engineer
+1,1,1,1,3,2,2,2,3,1,3.93,Development,Web Developer
+2,0,2,2,2,1,3,2,2,3,3.12,Development,Software Engineer
+3,0,3,1,1,1,1,2,1,3,3.07,Development,Software Engineer
+3,0,1,2,2,3,1,3,3,3,3.14,AI,AI Engineer
+3,2,2,2,1,0,1,3,2,2,3.89,AI,AI Engineer
+3,1,3,2,1,2,0,3,1,3,2.57,Development,Software Engineer
+1,2,3,3,2,1,1,2,2,3,3.92,Database,Database Administrator
+2,3,3,3,3,0,0,2,2,2,3.65,Data,Data Scientist
+3,2,3,2,3,3,1,2,3,1,3.99,Data,Data Scientist
+2,0,3,2,2,2,0,3,2,1,3.5,Development,Software Engineer
+1,1,0,1,3,2,0,1,3,1,3.58,Development,Web Developer
+1,0,0,0,3,3,1,1,3,2,2.96,Development,Web Developer
+3,2,3,2,0,1,2,2,3,2,2.94,Data,Data Scientist
+1,1,3,0,2,2,3,2,2,1,3.8,Cloud,Cloud Engineer
+2,1,3,3,1,3,2,2,3,1,3.48,AI,AI Engineer
+1,2,2,2,2,3,2,2,3,3,3.26,Cloud,Cloud Engineer
+2,1,3,2,2,2,3,2,3,3,2.51,Data,Data Scientist
+1,0,1,0,3,2,3,2,1,3,3.78,Cloud,DevOps Engineer
+2,3,0,3,3,0,2,2,2,3,3.84,Cloud,DevOps Engineer
+1,3,1,0,3,2,1,2,3,3,2.61,Security,Cyber Security Analyst
+2,3,3,2,0,2,1,2,2,1,2.86,AI,AI Engineer
+2,0,2,3,1,3,3,2,2,3,3.51,Cloud,DevOps Engineer
+1,3,2,3,3,1,2,3,2,3,2.73,Security,Cyber Security Analyst
+1,3,1,2,2,3,3,2,2,1,2.63,Database,Database Administrator
+2,1,3,2,2,3,2,2,1,1,3.36,Data,Data Scientist
+2,3,1,0,2,2,3,3,1,1,3.22,Cloud,Cloud Engineer
+2,2,2,0,2,2,2,3,2,2,3.32,Development,Software Engineer
+2,2,1,2,0,1,2,2,1,3,3.79,AI,AI Engineer
+2,3,2,3,2,2,1,1,1,3,3.9,Development,Web Developer
+3,2,3,2,0,2,3,3,3,3,3.51,AI,AI Engineer
+3,3,1,2,2,1,2,3,2,2,3.74,Development,Software Engineer
+1,0,3,2,1,0,2,2,1,3,3.25,Cloud,Cloud Engineer
+2,3,2,2,3,0,2,1,2,3,3.65,Database,Database Administrator
+2,3,1,0,2,3,0,2,1,1,2.54,Development,Web Developer
+1,2,2,3,3,3,2,0,3,3,3.48,Development,Web Developer
+2,0,2,2,3,1,2,3,2,2,3.37,Security,Cyber Security Analyst
+2,3,3,0,2,2,2,3,3,1,2.63,Security,Cyber Security Analyst
+2,1,3,3,0,1,1,2,3,3,3.83,Data,Data Scientist
+2,0,1,2,2,1,2,2,2,3,2.89,Development,Software Engineer
+1,2,2,0,3,2,2,2,2,2,2.86,Cloud,DevOps Engineer

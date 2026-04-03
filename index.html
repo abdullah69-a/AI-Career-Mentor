@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Roadmap Predictor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #4A90E2;
+            --secondary: #00C9A7;
+            --accent: #9A2CFF;
+            --dark: #1A1D23;
+            --light: #FFFFFF;
+            --gray: #E0E6ED;
+            --success: #28a745;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+        body { background: linear-gradient(135deg, #1A1D23 0%, #303540 100%); color: var(--light); min-height: 100vh; overflow-x: hidden; }
+
+        .container { max-width: 1100px; margin: 50px auto; padding: 20px; }
+
+        /* --- Header Styles --- */
+        header { text-align: center; margin-bottom: 50px; }
+        header h1 { font-size: 3rem; font-weight: 700; background: linear-gradient(to right, var(--primary), var(--secondary)); -webkit-background-clip: text; color: transparent; text-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+        header p { font-size: 1.1rem; color: #B0B7C3; margin-top: 10px; }
+
+        /* --- Form & Glassmorphism --- */
+        #careerForm { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(15px); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 15px 35px rgba(0,0,0,0.3); }
+
+        /* --- Tabs Logic --- */
+        .tab { display: none; }
+        .tab.active { display: block; animation: fadeIn 0.5s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        .tab-header { display: flex; justify-content: space-around; margin-bottom: 30px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; }
+        .tab-link { color: #B0B7C3; cursor: pointer; padding: 10px 20px; border-radius: 10px; transition: all 0.3s ease; }
+        .tab-link:hover { color: var(--light); background: rgba(255,255,255,0.05); }
+        .tab-link.active { color: var(--light); font-weight: 600; background: var(--primary); box-shadow: 0 5px 15px rgba(74, 144, 226, 0.3); }
+
+        /* --- Input Styles --- */
+        .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+        .form-group { margin-bottom: 20px; }
+        .form-group label { display: block; color: var(--light); font-weight: 500; margin-bottom: 10px; font-size: 0.95rem; }
+        .form-group label i { margin-right: 8px; color: var(--secondary); }
+        
+        input[type="number"], select {
+            width: 100%; padding: 15px; border-radius: 10px; border: 2px solid rgba(255, 255, 255, 0.1);
+            background: rgba(0, 0, 0, 0.2); color: var(--light); font-size: 1rem; transition: all 0.3s ease;
+        }
+        input[type="number"]:focus, select:focus {
+            border-color: var(--primary); outline: none; box-shadow: 0 0 10px rgba(74, 144, 226, 0.3); background: rgba(0, 0, 0, 0.4);
+        }
+
+        /* --- Buttons --- */
+        .btn-container { display: flex; justify-content: space-between; margin-top: 40px; }
+        .btn { padding: 12px 30px; border-radius: 50px; border: none; cursor: pointer; font-weight: 600; font-size: 1rem; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; }
+        .btn-primary { background: var(--primary); color: var(--light); }
+        .btn-primary:hover { transform: translateY(-3px); box-shadow: 0 10px 20px rgba(74, 144, 226, 0.4); }
+        .btn-success { background: var(--secondary); color: var(--light); width: 100%; justify-content: center; }
+        .btn-success:hover { transform: translateY(-3px); box-shadow: 0 10px 20px rgba(0, 201, 167, 0.4); }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* --- Result Section --- */
+        #result { display: none; margin-top: 50px; }
+        #result.active { display: block; animation: slideUp 0.6s ease; }
+        @keyframes slideUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+
+        .result-card { background: rgba(255, 255, 255, 0.03); border-radius: 20px; padding: 40px; border: 1px solid rgba(255,255,255,0.05); }
+        .result-header { text-align: center; margin-bottom: 40px; }
+        .result-header h2 { font-size: 1.6rem; color: #B0B7C3; font-weight: 400; }
+        .result-header h1 { font-size: 3.2rem; font-weight: 700; color: var(--success); text-shadow: 0 0 20px rgba(40, 167, 69, 0.4); }
+        .result-header h3 { font-size: 1.1rem; color: #B0B7C3; max-width: 600px; margin: 15px auto; line-height: 1.6; }
+
+        .result-details-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin-top: 30px; }
+        .info-box { background: rgba(0,0,0,0.2); border-radius: 15px; padding: 25px; border: 1px solid rgba(255,255,255,0.05); }
+        .info-box h4 { font-size: 1.2rem; color: var(--secondary); margin-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 8px; }
+        .info-box ul { list-style: none; color: #B0B7C3; }
+        .info-box ul li { margin-bottom: 12px; position: relative; padding-left: 25px; line-height: 1.5; }
+        .info-box ul li::before { content: "\f105"; font-family: "Font Awesome 6 Free"; font-weight: 900; color: var(--success); position: absolute; left: 0; top: 2px; }
+
+        /* Timeline Style for Roadmap */
+        .timeline { list-style: none; position: relative; padding-left: 30px; border-left: 2px solid rgba(0, 201, 167, 0.2); }
+        .timeline li { margin-bottom: 25px; position: relative; }
+        .timeline li::before { content: ''; position: absolute; left: -36px; top: 5px; width: 14px; height: 14px; border-radius: 50%; background: var(--secondary); border: 3px solid rgba(0,0,0,1); box-shadow: 0 0 10px rgba(0,201,167,0.5); }
+        .timeline li strong { color: var(--light); font-weight: 600; display: block; margin-bottom: 3px; font-size: 1.05rem; }
+        .timeline li span { color: #B0B7C3; font-size: 0.95rem; }
+
+        .tools-list span { display: inline-block; background: rgba(154, 44, 255, 0.1); color: #B19FFF; padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; margin: 5px; border: 1px solid rgba(154, 44, 255, 0.2); }
+
+        /* Loader */
+        .loader { display: none; text-align: center; margin: 30px 0; }
+        .loader i { color: var(--primary); font-size: 2.5rem; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header h1 { font-size: 2.2rem; }
+            .tab-header { flex-wrap: wrap; gap: 10px; }
+            .btn-container { flex-direction: column; gap: 15px; }
+            .form-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>AI Career Navigator</h1>
+        <p>Your AI-Powered Career Predictor & Personalized Roadmap based on your Skills and Interests.</p>
+    </header>
+
+    <form id="careerForm">
+        <div class="tab-header">
+            <span class="tab-link active" onclick="openTab(0)"><i class="fas fa-brain"></i> Core Skills</span>
+            <span class="tab-link" onclick="openTab(1)"><i class="fas fa-laptop-code"></i> Tech Skills</span>
+            <span class="tab-link" onclick="openTab(2)"><i class="fas fa-heart"></i> Interests</span>
+            <span class="tab-link" onclick="openTab(3)"><i class="fas fa-user-graduate"></i> Academic</span>
+        </div>
+
+        <div class="tab active">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label><i class="fas fa-code"></i> Python (0-3)</label>
+                    <input type="number" name="Python" min="0" max="3" placeholder="0: Beginner, 3: Expert" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-database"></i> SQL (0-3)</label>
+                    <input type="number" name="SQL" min="0" max="3" placeholder="Level 0 to 3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-chart-line"></i> Statistics (0-3)</label>
+                    <input type="number" name="Statistics" min="0" max="3" placeholder="Level 0 to 3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-robot"></i> Machine Learning (0-3)</label>
+                    <input type="number" name="MachineLearning" min="0" max="3" placeholder="Level 0 to 3" required>
+                </div>
+            </div>
+            <div class="btn-container">
+                <div></div>
+                <button type="button" class="btn btn-primary next-btn">Next Section <i class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+
+        <div class="tab">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label><i class="fab fa-html5"></i> HTML/CSS (0-3)</label>
+                    <input type="number" name="HTML_CSS" min="0" max="3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fab fa-js"></i> JavaScript (0-3)</label>
+                    <input type="number" name="JavaScript" min="0" max="3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-cloud"></i> Cloud (0-3)</label>
+                    <input type="number" name="Cloud" min="0" max="3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-puzzle-piece"></i> Problem Solving (0-3)</label>
+                    <input type="number" name="ProblemSolving" min="0" max="3" required>
+                </div>
+            </div>
+            <div class="btn-container">
+                <button type="button" class="btn prev-btn"><i class="fas fa-arrow-left"></i> Previous</button>
+                <button type="button" class="btn btn-primary next-btn">Next Section <i class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+
+        <div class="tab">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label>Interest in AI</label>
+                    <select name="Interest_AI" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Interest in Cloud</label>
+                    <select name="Interest_Cloud" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Interest in Data Science</label>
+                    <select name="Interest_Data" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Interest in Database</label>
+                    <select name="Interest_Database" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                 <div class="form-group">
+                    <label>Interest in Security</label>
+                    <select name="Interest_Security" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Interest in Development</label>
+                    <select name="Interest_Development" required>
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="btn-container">
+                <button type="button" class="btn prev-btn"><i class="fas fa-arrow-left"></i> Previous</button>
+                <button type="button" class="btn btn-primary next-btn">Almost Done <i class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+
+        <div class="tab">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label><i class="fas fa-user-friends"></i> Communication (0-3)</label>
+                    <input type="number" name="Communication" min="0" max="3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-lightbulb"></i> Creativity (0-3)</label>
+                    <input type="number" name="Creativity" min="0" max="3" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-graduation-cap"></i> CGPA (Float)</label>
+                    <input type="number" name="CGPA" step="0.1" min="0" max="4" placeholder="Example: 3.5" required>
+                </div>
+            </div>
+            <div class="btn-container">
+                <button type="button" class="btn prev-btn"><i class="fas fa-arrow-left"></i> Previous</button>
+                <div></div>
+            </div>
+            <br>
+            <button type="submit" class="btn btn-success" id="submitBtn"><i class="fas fa-magic"></i> Predict My Roadmap!</button>
+        </div>
+    </form>
+
+    <div class="loader" id="loader">
+        <i class="fas fa-circle-notch fa-spin"></i>
+        <p>Creating Roadmap for Youre Feutures is processing ........</p>
+    </div>
+
+    <div id="result">
+        <div class="result-card">
+            <div class="result-header">
+                <h2>Model prediction</h2>
+                <h1 id="recommendedRole">Web Developer</h1>
+                <h3 id="roleOverview"> overview coming soon.</h3>
+            </div>
+
+            <div class="result-details-grid">
+                <div class="info-box">
+                    <h4><i class="fas fa-route"></i> Your Roadmap (Timeline)</h4>
+                    <ul class="timeline" id="roadmapList">
+                        </ul>
+                </div>
+
+                <div>
+                    <div class="info-box">
+                        <h4><i class="fas fa-tools"></i> Essential Tools to Learn</h4>
+                        <div class="tools-list" id="toolsList">
+                            </div>
+                    </div>
+                    <br>
+                    <div class="info-box">
+                        <h4><i class="fas fa-book-reader"></i> Top Learning Resources</h4>
+                        <ul id="resourcesList">
+                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // 1. Tab Logic
+    let currentTab = 0;
+    const tabs = document.querySelectorAll('.tab');
+    const tabLinks = document.querySelectorAll('.tab-link');
+
+    function openTab(n) {
+        tabs[currentTab].classList.remove('active');
+        tabLinks[currentTab].classList.remove('active');
+        currentTab = n;
+        tabs[currentTab].classList.add('active');
+        tabLinks[currentTab].classList.add('active');
+    }
+
+    document.querySelectorAll('.next-btn').forEach(btn => {
+        btn.addEventListener('click', () => openTab(currentTab + 1));
+    });
+    document.querySelectorAll('.prev-btn').forEach(btn => {
+        btn.addEventListener('click', () => openTab(currentTab - 1));
+    });
+
+    // 2. Form Submission & API Integration (FIXED)
+    const form = document.getElementById('careerForm');
+    const loader = document.getElementById('loader');
+    const resultSec = document.getElementById('result');
+
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        // UI Update: Show Loader
+        loader.style.display = 'block';
+        form.style.display = 'none';
+        resultSec.classList.remove('active');
+
+        // Data Collect Karein
+        const formData = new FormData(form);
+        const inputData = {};
+        formData.forEach((value, key) => {
+            inputData[key] = (key === 'CGPA') ? parseFloat(value) : parseInt(value);
+        });
+
+        try {
+            const sum = Object.values(inputData).reduce((a, b) => a + b, 0);
+            if (sum === 0) {
+                alert("Please Enter Youre skills first!");
+                loader.style.display = 'none';
+                form.style.display = 'block';
+                return; // Request mat bhejo
+            }
+            // API Call (FastAPI address confirm karein)
+            const response = await fetch('http://127.0.0.1:8000/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(inputData)
+            });
+
+            if (!response.ok) throw new Error('Backend error!');
+
+            const data = await response.json(); // Backend se "predicted_role" aur "roadmap_details" aayega
+
+            // Result Display Logic (Fixing Keys)
+            const details = data.roadmap_details;
+            
+            // 1. Title aur Overview
+            document.getElementById('recommendedRole').innerText = data.predicted_role;
+            document.getElementById('roleOverview').innerText = `${details.overview} (Duration: ${details.duration})`;
+
+            // 2. Roadmap Timeline (Monthly Plan)
+            const roadmapList = document.getElementById('roadmapList');
+            roadmapList.innerHTML = '';
+            details.monthly_plan.forEach(item => {
+                const li = document.createElement('li');
+                // Agar item mein ":" hai toh split karein, warna pura text dikhayein
+                if(item.includes(':')) {
+                    const [month, task] = item.split(':');
+                    li.innerHTML = `<strong>${month.trim()}</strong> <span>${task.trim()}</span>`;
+                } else {
+                    li.innerHTML = `<strong>Step</strong> <span>${item}</span>`;
+                }
+                roadmapList.appendChild(li);
+            });
+
+            // 3. Essential Tools (Tags)
+            const toolsList = document.getElementById('toolsList');
+            toolsList.innerHTML = '';
+            details.essential_tools.forEach(tool => {
+                const span = document.createElement('span');
+                span.innerText = tool;
+                toolsList.appendChild(span);
+            });
+
+            // 4. Resources
+            const resourcesList = document.getElementById('resourcesList');
+            resourcesList.innerHTML = '';
+            const resourcesArray = details.resources.split(',');
+            resourcesArray.forEach(res => {
+                const li = document.createElement('li');
+                li.innerText = res.trim();
+                resourcesList.appendChild(li);
+            });
+
+            // Final UI Update
+            loader.style.display = 'none';
+            resultSec.classList.add('active');
+
+        } catch (error) {
+            console.error("Fetch Error:", error);
+            alert("Can,t connect with fastapi! .");
+            loader.style.display = 'none';
+            form.style.display = 'block';
+        }
+    });
+</script>
